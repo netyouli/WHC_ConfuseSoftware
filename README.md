@@ -1,42 +1,32 @@
 # iOS自动代码翻新(混淆)专家
-<div align=center><img src="https://github.com/netyouli/WHC_AutoLayoutKit/blob/master/Gif/WHC_AutoLayoutLogo.png" width = "319.5" height = "129"/></div></br>
+<div align=center><img src="https://github.com/netyouli/WHC_AutoLayoutKit/blob/master/Gif/WHC_AutoLayoutLogo.png" width = "100" height = "100"/></div></br>
 
-![Build Status](https://api.travis-ci.org/netyouli/WHC_AutoLayoutKit.svg?branch=master)
-[![Pod Version](http://img.shields.io/cocoapods/v/WHC_AutoLayoutKit.svg?style=flat)](http://cocoadocs.org/docsets/WHC_AutoLayoutKit/)
-[![Pod License](http://img.shields.io/cocoapods/l/WHC_AutoLayoutKit.svg?style=flat)](https://opensource.org/licenses/MIT)
 
--  iOS and Mac OS X platforms currently in use the fastest the simplest development to build the UI layout automatically open source library, strong dynamic layout constraint handling capacity
--  Service to update constraints, convenient and quick dynamic UI layout.
+-  iOS代码自动翻新(混淆)专家是一款新一代运行在MAC OS平台的App、完美支持Objc和Swift项目代码的自动翻新(混淆)、支持文件名、类名、方法名、属性名、添加混淆方法体、添加混淆属性、自动调用混淆方法等。。。功能强大而稳定。
 
-**Swift4.0 version** 👉 [WHC_Layout](https://github.com/netyouli/WHC_Layout)
-
-**重构布局核心升级基于二叉树层遍历算法搜索约束主视图,对于自动处理跨视图层复杂约束关系更健壮可靠**
-
-**封装集成抗拉和伸抗压缩api支持链式调用**
 
 Introduce
 ==============
--  Adopt chain layout Api calls convenient
--  Include one line of code to calculate UITableViewCell highly module
--  Contains WHC_StackView module (UIStackView purpose alternative system)
--  Automatic identification of the same type conflict and update the new constraints
--  Support change constraints priority
--  Support delete constraints
--  Support iOS and Mac OS X
--  Automatic covering and modify the conflict with type constraints
+-  支持Swift、Objc项目
+-  支持文件名、类名、方法名、属性名翻新修改
+-  支持添加混淆方法体、添加混淆属性
+-  支持自动调用生成的混淆方法体
+-  支持生成函数、属性名称翻新名称宏映射表(Objc特有功能)
+-  支持部分混淆(可选插入方法、可选插入属性、可选插入调用生成的方法体)
+-  支持生成并自动插入混淆函数体
+-  支持生成并自动插入混淆属性声明
+-  支持生成详情翻新日志文件(方便排查)
+-  支持加载白名单(过滤不需要翻新的方法名、文件名、目录下子文件)
+-  支持在加载原路径项目下进行翻新
+-  支持在加载原路径项目下进行复制备份翻新
 
 Require
 ==============
-* iOS 8.0+ / Mac OS X 10.11+ / tvOS 9.0+
-* Xcode 8.0 or later
-
-Note
-==============
-- When the view call **removeFromSuperview**  the view must call **whc_ResetConstraints** to clear the cache constraint
+* Mac OS X 10.10+
 
 Install
 ==============
-* CocoaPods: pod 'WHC_AutoLayoutKit'
+* 双击文件./ConfuseSoftware/ConfuseSoftware.dmg 安装文件
 
 Usage
 ==============
