@@ -1,8 +1,8 @@
 # iOS自动代码翻新(混淆)专家   
 
-## 最新版本：v1.9.1.4  
+## 最新版本：v1.9.1.5  
 
-v1.9.1.3版本9月底暂停使用
+v1.9.1.3,v1.9.1.4版本9月底暂停使用
 
 <div align=center><img src="https://github.com/netyouli/WHC_ConfuseSoftware/blob/master/ConfuseSoftware/logo.png" width = "100" height = "100"/></div></br>
 
