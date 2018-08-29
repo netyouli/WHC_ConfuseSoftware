@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[UITableView(WHC_CacheCellHeight) whc_ReloadData]:UITableViewCell+WHC_AutoHeightForCell.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.whc_CacheHeightDictionary">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

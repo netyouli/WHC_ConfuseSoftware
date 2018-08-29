@@ -1,0 +1,4 @@
+osx_image: xcode8
+language: objective-c
+xcode_project: WHC_AutoLayoutExample.xcodeproj # path to your xcodeproj folder
+xcode_schemes: WHC_AutoLayoutExample
