@@ -1,8 +1,8 @@
 # iOS自动代码翻新(混淆)专家   
 
-## 最新版本：v1.9.1.7  
+## 最新版本：v1.9.1.8  
 
-v1.9.1.3,v1.9.1.4,v1.9.1.5,v1.9.1.6版本9月底暂停使用
+所有旧版本9月底暂停使用
 
 <div align=center><img src="https://github.com/netyouli/WHC_ConfuseSoftware/blob/master/ConfuseSoftware/logo.png" width = "100" height = "100"/></div></br>
 
@@ -14,6 +14,7 @@ Introduce
 ==============
 -  ☑ 支持Swift、Objc项目
 -  ☑ 支持文件名、类名、方法名、属性名、xib、storyborad关联方法名类名的翻新修改
+-  ☑ 支持mp3、wav、png、jpg、jpeg、gif、Assets.xcassets里图片资源文件名自动翻新并同步到代码里
 -  ☑ 支持添加混淆方法体、添加混淆属性
 -  ☑ 支持自动调用生成的混淆方法体
 -  ☑ 支持生成函数、属性名称翻新名称宏映射表(Objc特有功能)
