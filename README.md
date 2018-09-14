@@ -2,7 +2,10 @@
 
 ## 最新版本：v1.9.2.0  
 
-所有旧版本9月底暂停使用
+更新内容：修复swift泛型函数提取错误bug，修复xib、storyborad关联变量名修改失败bug
+
+更多历史更新记录请查看提交记录
+
 
 <div align=center><img src="https://github.com/netyouli/WHC_ConfuseSoftware/blob/master/ConfuseSoftware/logo.png" width = "100" height = "100"/></div></br>
 
