@@ -1,6 +1,9 @@
-# iOS自动代码翻新(混淆)专家   
+# iOS自动代码混淆专家   
 
-## 最新版本：v1.9.2.3beta
+## 最新版本：v1.9.2.4beta
+
+### v1.9.2.4beta更新内容：
+- 1.添加swift、objc项目字符串混淆加密功能(支持中文、英文、符号、表情符号混淆加密处理)
 
 ### v1.9.2.3beta更新内容：
 - 1.优化Objc的Category的混淆，优化Objc函数名称的提取
@@ -22,12 +25,13 @@
 <div align=center><img src="https://github.com/netyouli/WHC_ConfuseSoftware/blob/master/ConfuseSoftware/logo.png" width = "100" height = "100"/></div></br>
 
 
--  iOS代码自动翻新(混淆)专家是一款新一代运行在MAC OS平台的App、完美支持Objc和Swift项目代码的自动翻新(混淆)、支持文件名、类名、方法名、属性名、添加混淆方法体、添加混淆属性、自动调用混淆方法等。。。功能强大而稳定。
+-  iOS代码自动混淆专家是一款新一代运行在MAC OS平台的App、完美支持Objc和Swift项目代码的自动混淆、支持文件名、类名、方法名、属性名、添加混淆方法体、添加混淆属性、自动调用混淆方法、字符串混淆加密等。。。功能强大而稳定。
 
 
 Introduce
 ==============
 -  ☑ 支持Swift、Objc项目
+-  ☑ 支持swift、objc项目字符串混淆加密(支持中文英文符号表情符号混淆加密)
 -  ☑ 支持文件名、类名、方法名、属性名、xib、storyborad关联方法名类名的翻新修改
 -  ☑ 支持mp3、wav、png、jpg、jpeg、gif、Assets.xcassets里图片资源文件名自动翻新并同步到代码里
 -  ☑ 支持添加混淆方法体、添加混淆属性
@@ -56,6 +60,9 @@ Install
 Usage
 ==============
 查看翻新效果例子对比工程：./翻新之后App效果工程   ./翻新之前App效果工程
+
+## 字符串加密混淆反编译前后对比
+![image](https://github.com/netyouli/WHC_ConfuseSoftware/blob/master/ConfuseSoftware/1.png)![image](https://github.com/netyouli/WHC_ConfuseSoftware/blob/master/ConfuseSoftware/2.png)
 
 ## 自动翻新iOS项目
 ![image](https://github.com/netyouli/WHC_ConfuseSoftware/blob/master/ConfuseSoftware/翻新1.png)
