@@ -1,0 +1,18 @@
+{
+	"funcNames":[
+		"这里添加要过滤的函数名"
+	],
+
+	"fileNames":[
+		"main"
+		"这里添加要过滤的文件名"
+	],
+
+	"directoryNames": [
+		"这里添加要过滤的文件夹"
+	],
+
+	"assertsDirectorys":[
+		"这里添加要过滤的目录或者.imageset目录"
+	]
+}
