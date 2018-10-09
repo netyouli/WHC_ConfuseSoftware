@@ -1,6 +1,13 @@
 # iOS自动代码混淆专家   
 
-## 最新版本：v1.9.2.5beta
+<div align=center><img src="https://github.com/netyouli/WHC_ConfuseSoftware/blob/master/ConfuseSoftware/logo.png" width = "100" height = "100"/></div></br>
+
+## 最新版本：v1.9.2.6beta
+
+### v1.9.2.6beta更新内容：
+- 1.修复项目配置文件文件名修改失败bug
+- 2.优化Objc一个源文件定义多个类提取class顺序错误bug
+- 3.优化字符串加密（支持指定字符串加密，支持字符串加密白名单过滤）
 
 ### v1.9.2.5beta更新内容：
 - 1.优化objc的系统内置class的category类名过滤，优化项目配置文件文件名搜索
@@ -23,9 +30,6 @@
 - 6.更改生成的混淆日志log.txt存放路径(现存放在加载项目的根目录下面)
 
 更多历史更新记录请查看提交记录
-
-
-<div align=center><img src="https://github.com/netyouli/WHC_ConfuseSoftware/blob/master/ConfuseSoftware/logo.png" width = "100" height = "100"/></div></br>
 
 
 -  iOS代码自动混淆专家是一款新一代运行在MAC OS平台的App、完美支持Objc和Swift项目代码的自动混淆、支持文件名、类名、方法名、属性名、添加混淆方法体、添加混淆属性、自动调用混淆方法、字符串混淆加密等。。。功能强大而稳定。
