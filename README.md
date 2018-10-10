@@ -2,7 +2,11 @@
 
 <div align=center><img src="https://github.com/netyouli/WHC_ConfuseSoftware/blob/master/ConfuseSoftware/logo.png" width = "100" height = "100"/></div></br>
 
-## 最新版本：v1.9.2.6beta
+## 最新版本：v1.9.2.7beta
+
+### v1.9.2.7beta更新内容：
+- 1.修复原项目混淆Objc的category文件名爆红bug
+- 2.优化文件名类名混淆生成方式,全部添加随机大写字符前缀
 
 ### v1.9.2.6beta更新内容：
 - 1.修复项目配置文件文件名修改失败bug
