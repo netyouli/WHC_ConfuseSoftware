@@ -2,7 +2,12 @@
 
 <div align=center><img src="https://github.com/netyouli/WHC_ConfuseSoftware/blob/master/ConfuseSoftware/logo.png" width = "100" height = "100"/></div></br>
 
-## 最新版本：v1.9.2.7beta
+## 最新版本：v1.9.2.8beta
+
+### v1.9.2.8beta更新内容：
+- 1.调整UI布局添加混淆实时输出状态窗口
+- 2.优化混淆模式一下Objc函数名混淆对带下划线属性的处理
+- 3.针对大型项目增加：混淆模式二(常规)、该模式下将严格隔离函数名和属性(包含系统类属性)的混淆
 
 ### v1.9.2.7beta更新内容：
 - 1.修复原项目混淆Objc的category文件名爆红bug
@@ -34,9 +39,6 @@
 - 6.更改生成的混淆日志log.txt存放路径(现存放在加载项目的根目录下面)
 
 更多历史更新记录请查看提交记录
-
-
--  iOS代码自动混淆专家是一款新一代运行在MAC OS平台的App、完美支持Objc和Swift项目代码的自动混淆、支持文件名、类名、方法名、属性名、添加混淆方法体、添加混淆属性、自动调用混淆方法、字符串混淆加密等。。。功能强大而稳定。
 
 
 Introduce
@@ -71,6 +73,9 @@ Install
 Usage
 ==============
 查看翻新效果例子对比工程：./翻新之后App效果工程   ./翻新之前App效果工程
+
+## 动态混淆演示
+![](https://github.com/netyouli/WHC_ConfuseSoftware/blob/master/ConfuseSoftware/demo.gif)
 
 ## 字符串加密混淆反编译前后对比
 ![image](https://github.com/netyouli/WHC_ConfuseSoftware/blob/master/ConfuseSoftware/1.png)![image](https://github.com/netyouli/WHC_ConfuseSoftware/blob/master/ConfuseSoftware/2.png)
