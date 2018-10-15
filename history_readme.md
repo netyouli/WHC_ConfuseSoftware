@@ -1,15 +1,41 @@
-# iOS自动代码混淆专家   
-
-<div align=center><img src="https://github.com/netyouli/WHC_ConfuseSoftware/blob/master/ConfuseSoftware/logo.png" width = "100" height = "100"/></div></br>
-
-## 最新版本：v1.9.2.8beta
+# iOS自动代码混淆专家-历史更新记录   
 
 ### v1.9.2.8beta更新内容：
 - 1.调整UI布局添加混淆实时输出状态窗口
 - 2.优化混淆模式一下Objc函数名混淆对带下划线属性的处理
 - 3.针对大型项目增加：混淆模式二(常规)、该模式下将严格隔离函数名和属性(包含系统类属性)的混淆
 
-[ ![🔍查看更多历史更新记录]](https://github.com/netyouli/WHC_ConfuseSoftware/blob/master/history_readme.md)
+### v1.9.2.7beta更新内容：
+- 1.修复原项目混淆Objc的category文件名爆红bug
+- 2.优化文件名类名混淆生成方式,全部添加随机大写字符前缀
+
+### v1.9.2.6beta更新内容：
+- 1.修复项目配置文件文件名修改失败bug
+- 2.优化Objc一个源文件定义多个类提取class顺序错误bug
+- 3.优化字符串加密（支持指定字符串加密，支持字符串加密白名单过滤）
+
+### v1.9.2.5beta更新内容：
+- 1.优化objc的系统内置class的category类名过滤，优化项目配置文件文件名搜索
+
+### v1.9.2.4beta更新内容：
+- 1.添加swift、objc项目字符串混淆加密功能(支持中文、英文、符号、表情符号混淆加密处理)
+
+### v1.9.2.3beta更新内容：
+- 1.优化Objc的Category的混淆，优化Objc函数名称的提取
+
+### v1.9.2.2beta更新内容：
+- 1.修复混淆其他包时Assert路径引用依然是上个包的、引起错误混淆
+
+### v1.9.2.1beta更新内容：
+- 1.添加清除代码注释控制开关
+- 2.优化UITableViewCell关联xib、storyborad翻新混淆
+- 3.优化自动插入混淆函数以及调用生成的混淆函数算法(解决一个源文件定义多个类插入混淆函数编译报错问题)
+- 4.优化函数名混淆(解决常量字符串和函数名一样时被翻新混淆掉问题)
+- 5.优化sks资源文件和对应源文件名称统一
+- 6.更改生成的混淆日志log.txt存放路径(现存放在加载项目的根目录下面)
+
+更多历史更新记录请查看提交记录
+
 
 Introduce
 ==============
