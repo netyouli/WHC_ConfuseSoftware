@@ -9,7 +9,7 @@
 - 2.优化混淆模式一下Objc函数名混淆对带下划线属性的处理
 - 3.针对大型项目增加：混淆模式二(常规)、该模式下将严格隔离函数名和属性(包含系统类属性)的混淆
 
-[ ![🔍查看更多历史更新记录]](https://github.com/netyouli/WHC_ConfuseSoftware/blob/master/history_readme.md)
+查看更多：[🔍查看更多历史更新记录](https://github.com/netyouli/WHC_ConfuseSoftware/blob/master/history_readme.md)
 
 Introduce
 ==============
