@@ -2,12 +2,12 @@
 
 <div align=center><img src="https://github.com/netyouli/WHC_ConfuseSoftware/blob/master/ConfuseSoftware/logo.png" width = "100" height = "100"/></div></br>
 
-## 最新版本：v1.9.2.8beta
+## 最新版本：v1.9.2.9beta
 
-### v1.9.2.8beta更新内容：
-- 1.调整UI布局添加混淆实时输出状态窗口
-- 2.优化混淆模式一下Objc函数名混淆对带下划线属性的处理
-- 3.针对大型项目增加：混淆模式二(常规)、该模式下将严格隔离函数名和属性(包含系统类属性)的混淆
+该软件主要解决机器审核4.3、2.1
+
+### v1.9.2.9beta更新内容：
+- 1.添加新函数混淆模式(获取加载混淆的项目里面所有函数名互相随机替换)
 
 查看更多：[🔍查看更多历史更新记录](https://github.com/netyouli/WHC_ConfuseSoftware/blob/master/history_readme.md)
 
