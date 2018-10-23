@@ -1,13 +1,14 @@
-# iOS自动代码混淆专家   
+# iOS代码混淆专家   
 
 <div align=center><img src="https://github.com/netyouli/WHC_ConfuseSoftware/blob/master/ConfuseSoftware/logo.png" width = "100" height = "100"/></div></br>
 
-## 最新版本：v1.9.2.9beta
+## 最新版本：v1.9.3.0beta
 
 该软件主要解决机器审核4.3、2.1
 
-### v1.9.2.9beta更新内容：
-- 1.添加新函数混淆模式(获取加载混淆的项目里面所有函数名互相随机替换)
+### v1.9.3.0beta更新内容：
+- 1.添加只修改Asserts图片文件名称模式
+- 2.修复项目函数互相替换混淆方式出现函数名重复bug
 
 查看更多：[🔍查看更多历史更新记录](https://github.com/netyouli/WHC_ConfuseSoftware/blob/master/history_readme.md)
 
