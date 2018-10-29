@@ -4,7 +4,6 @@
 	],
 
 	"fileNames":[
-		"main"
 		"这里添加要过滤的文件名"
 	],
 
@@ -21,5 +20,18 @@
 
 	"specifiedEncryptStrings":[
 		"这里指定进行加密混淆的字符串名称（只对：加密指定字符串选项有效）"
+	],
+
+
+	"fileNameWords":[
+		"自定义文件名混淆组合单词集合"
+	],
+
+	"funcNameWords": [
+		"自定义函数名混淆组合单词集合"
+	],
+
+	"propertyNameWords": [
+		"自定义属性名混淆组合单词集合"
 	]
 }
