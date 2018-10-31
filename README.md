@@ -2,15 +2,14 @@
 
 <div align=center><img src="https://github.com/netyouli/WHC_ConfuseSoftware/blob/master/ConfuseSoftware/logo.png" width = "100" height = "100"/></div></br>
 
-## 最新版本：v1.9.3.1beta
+## 最新版本：v1.9.3.2beta
 
-该软件主要解决机器审核4.3、2.1
+该软件主要解决机器审核4.3、2.1（使用模拟人工手动混淆模式防止出现2.3.1）
 
-### v1.9.3.1beta更新内容：
-- 1.添加模拟人工手动混淆模式（防止混淆后出现2.3.1）
-- 2.升级混淆模式二算法（swift、objc函数名称混淆更准确稳定）
-- 3.内置iOS系统大量系统类函数名过滤白名单
-- 4.调整objc、swift自动生成函数策略（防止混淆后出现2.3.1）
+### v1.9.3.2beta更新内容：
+- 1.修复自动登录失败问题
+- 2.修复更新项目配置出现特需文件名更新失败导致爆红问题
+
 
 查看更多：[🔍查看更多历史更新记录](https://github.com/netyouli/WHC_ConfuseSoftware/blob/master/history_readme.md)
 
