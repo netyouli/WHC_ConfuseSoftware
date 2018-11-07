@@ -2,9 +2,12 @@
 
 <div align=center><img src="https://github.com/netyouli/WHC_ConfuseSoftware/blob/master/ConfuseSoftware/logo.png" width = "100" height = "100"/></div></br>
 
-## 最新版本：v1.9.3.3beta
+## 最新版本：v1.9.3.4beta
 
 该软件主要解决机器审核4.3、2.1（使用模拟人工手动混淆模式防止出现2.3.1）
+
+### v1.9.3.4beta更新内容：
+- 1.修复objc属性自定义getter、setter名称混淆错误bug
 
 ### v1.9.3.3beta更新内容：
 - 1.添加支持u3d项目打包生成后的xcode工程代码混淆
