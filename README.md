@@ -2,12 +2,15 @@
 
 <div align=center><img src="https://github.com/netyouli/WHC_ConfuseSoftware/blob/master/ConfuseSoftware/logo.png" width = "100" height = "100"/></div></br>
 
-## 最新版本：v1.9.3.5beta
+## 最新版本：v1.9.3.6
 
 该软件主要解决机器审核4.3、2.1（使用模拟人工手动混淆模式防止出现2.3.1）
 
-### v1.9.3.5beta更新内容：
-- 1.修复源代码有emoji字符替换代码中带中文名称图片资源失败的情况
+### v1.9.3.6更新内容：
+- 1.添加手动加密、解密字符串、生成objc、swift解密函数
+- 2.修复混淆项目目录下图片2倍图和3倍图名称不一样的问题
+- 3.修复pch文件混淆出现Unicode字符问题
+- 4.添加一些关键字过滤
 
 
 查看更多：[🔍查看更多历史更新记录](https://github.com/netyouli/WHC_ConfuseSoftware/blob/master/history_readme.md)
@@ -29,6 +32,10 @@ Introduce
 -  ☑ 支持在加载原路径项目下进行翻新
 -  ☑ 支持在加载原路径项目下进行复制备份翻新
 
+Note
+==============
+- 使用Xcode10加载混淆项目，在混淆之前最好关闭工程，混淆完成了再打开工程，避免Xcode10上面文件名爆红错误
+
 Video
 ==============
 [视频翻新演示：](https://pan.baidu.com/s/1_ji0en1xhPd8s_zIrt2LEQ)https://pan.baidu.com/s/1_ji0en1xhPd8s_zIrt2LEQ
@@ -47,6 +54,9 @@ Usage
 
 ## 动态混淆演示
 ![](https://github.com/netyouli/WHC_ConfuseSoftware/blob/master/ConfuseSoftware/demo.gif)
+
+## 手动加解密字符串
+![image](https://github.com/netyouli/WHC_ConfuseSoftware/blob/master/ConfuseSoftware/字符串加密.png)
 
 ## 字符串加密混淆反编译前后对比
 ![image](https://github.com/netyouli/WHC_ConfuseSoftware/blob/master/ConfuseSoftware/1.png)![image](https://github.com/netyouli/WHC_ConfuseSoftware/blob/master/ConfuseSoftware/2.png)
