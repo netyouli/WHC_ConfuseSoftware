@@ -18,7 +18,7 @@
 Introduce
 ==============
 -  ☑ 支持Swift、Objc、u3d项目
--  ☑ 支持一键项目克隆功能（自动创建指定项目名称并克隆老项目代码库依赖配置、支持Pod）、类似React-Native构建工具自动生成指定名称Xcode工程
+-  ☑ 支持一键项目克隆功能（自动创建指定名称的项目并克隆指定项目里代码库依赖配置、支持Pod）、类似React-Native构建工具自动生成指定名称Xcode工程
 -  ☑ 支持swift、objc项目字符串混淆加密(支持中文英文符号表情符号混淆加密)
 -  ☑ 支持文件名、类名、方法名、属性名、xib、storyborad关联方法名类名的翻新修改
 -  ☑ 支持mp3、wav、png、jpg、jpeg、gif、Assets.xcassets里图片资源文件名自动翻新并同步到代码里
