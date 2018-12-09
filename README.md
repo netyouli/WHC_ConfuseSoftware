@@ -2,15 +2,14 @@
 
 <div align=center><img src="https://github.com/netyouli/WHC_ConfuseSoftware/blob/master/ConfuseSoftware/logo.png" width = "100" height = "100"/></div></br>
 
-## 最新版本：v1.9.3.6
+## 最新版本：v1.9.3.7
 
 该软件主要解决机器审核4.3、2.1（使用模拟人工手动混淆模式防止出现2.3.1）
 
-### v1.9.3.6更新内容：
-- 1.添加手动加密、解密字符串、生成objc、swift解密函数
-- 2.修复混淆项目目录下图片2倍图和3倍图名称不一样的问题
-- 3.修复pch文件混淆出现Unicode字符问题
-- 4.添加一些关键字过滤
+### v1.9.3.7更新内容：
+- 1.添加一键克隆项目功能（自动创建指定项目名称并克隆老项目代码库依赖配置、支持Pod）、类似React-Native构建工具自动生成指定名称Xcode工程
+- 2.优化图片名称同步到代码处理
+- 3.去掉混淆时插入的注释
 
 
 查看更多：[🔍查看更多历史更新记录](https://github.com/netyouli/WHC_ConfuseSoftware/blob/master/history_readme.md)
@@ -18,6 +17,7 @@
 Introduce
 ==============
 -  ☑ 支持Swift、Objc、u3d项目
+-  ☑ 支持一键项目克隆功能（自动创建指定项目名称并克隆老项目代码库依赖配置、支持Pod）、类似React-Native构建工具自动生成指定名称Xcode工程
 -  ☑ 支持swift、objc项目字符串混淆加密(支持中文英文符号表情符号混淆加密)
 -  ☑ 支持文件名、类名、方法名、属性名、xib、storyborad关联方法名类名的翻新修改
 -  ☑ 支持mp3、wav、png、jpg、jpeg、gif、Assets.xcassets里图片资源文件名自动翻新并同步到代码里
@@ -51,6 +51,9 @@ Install
 Usage
 ==============
 查看翻新效果例子对比工程：./翻新之后App效果工程   ./翻新之前App效果工程
+
+## 一键克隆项目
+![image](https://github.com/netyouli/WHC_ConfuseSoftware/blob/master/ConfuseSoftware/clone.png)
 
 ## 动态混淆演示
 ![](https://github.com/netyouli/WHC_ConfuseSoftware/blob/master/ConfuseSoftware/demo.gif)
