@@ -2,22 +2,23 @@
 
 <div align=center><img src="https://github.com/netyouli/WHC_ConfuseSoftware/blob/master/ConfuseSoftware/logo.png" width = "100" height = "100"/></div></br>
 
-## 最新版本：v1.9.3.7
+## 最新版本：v1.9.3.8
 
-该软件主要解决机器审核4.3、2.1（使用模拟人工手动混淆模式防止出现2.3.1）
+该软件主要解决机器审核4.3、2.1（使用模拟人工手动混淆模式防止出现因为混淆原因出现2.3.1）
 
-### v1.9.3.7更新内容：
-- 1.添加一键克隆项目功能（自动创建指定名称的项目并克隆指定项目里代码库依赖配置、支持Pod）、
-    类似React-Native构建工具自动生成指定名称Xcode项目工程
-- 2.优化图片名称同步到代码处理
-- 3.去掉混淆时插入的注释
+### v1.9.3.8更新内容：
+- 1.添加支持cpp文件名类名修改翻新混淆(方法, 插入垃圾代码暂时不支持)
+- 2.添加自动生成混淆过滤白名单.json文件到指定目录（方便每个项目过滤白名单不一样）
+- 3.添加输入自定义混淆类名前缀功能
+- 4.优化自动清理注释功能防止出现多行合并一行情况
+- 5.优化白名单json文件格式校验
 
 
 查看更多：[🔍查看更多历史更新记录](https://github.com/netyouli/WHC_ConfuseSoftware/blob/master/history_readme.md)
 
 Introduce
 ==============
--  ☑ 支持Swift、Objc、u3d项目
+-  ☑ 支持Swift、Objc、u3d项目、cpp文件名类名修改翻新混淆
 -  ☑ 支持一键项目克隆功能（自动创建指定名称的项目并克隆指定项目里代码库依赖配置、支持Pod）、类似React-Native构建工具自动生成指定名称Xcode工程
 -  ☑ 支持swift、objc项目字符串混淆加密(支持中文英文符号表情符号混淆加密)
 -  ☑ 支持文件名、类名、方法名、属性名、xib、storyborad关联方法名类名的翻新修改
