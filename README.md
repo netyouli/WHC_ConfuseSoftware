@@ -2,11 +2,11 @@
 
 <div align=center><img src="https://github.com/netyouli/WHC_ConfuseSoftware/blob/master/ConfuseSoftware/logo.png" width = "100" height = "100"/></div></br>
 
-## 最新版本：v1.9.3.8
+## 最新版本：v1.9.3.8.1
 
 该软件主要解决机器审核4.3、2.1（使用模拟人工手动混淆模式防止出现因为混淆原因出现2.3.1）
 
-### v1.9.3.8更新内容：
+### v1.9.3.8.1更新内容：
 - 1.添加支持cpp文件名类名修改翻新混淆(方法, 插入垃圾代码暂时不支持)
 - 2.添加自动生成混淆过滤白名单.json文件到指定目录（方便每个项目过滤白名单不一样）
 - 3.添加输入自定义混淆类名前缀功能
