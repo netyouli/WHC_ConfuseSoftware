@@ -75,6 +75,4 @@ Usage
 ## 随机生成Swift方法
 ![image](https://github.com/netyouli/WHC_ConfuseSoftware/blob/master/ConfuseSoftware/翻新2.png)
 
-
-
-## 欢迎下载使用(*￣︶￣)
+## 注：该项目不是开源免费使用的软件，如果想要免费开源的用户请慎重下载本项目，目前下载使用是需要购买Vip才能使用，具体详情请咨询作者，谢谢！
