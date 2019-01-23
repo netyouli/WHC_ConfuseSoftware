@@ -2,13 +2,13 @@
 
 <div align=center><img src="https://github.com/netyouli/WHC_ConfuseSoftware/blob/master/ConfuseSoftware/logo.png" width = "100" height = "100"/></div></br>
 
-## 最新版本：v1.9.4.0
+## 最新版本：v1.9.4.1
 
 该软件主要解决机器审核4.3、2.1（使用模拟人工手动混淆模式防止出现因为混淆原因出现2.3.1）
 
-### v1.9.4.0更新内容：
+### v1.9.4.1更新内容：
 - 1.添加自动修改项目资源文件(png,jpg,jpeg,mp3,mp4,caf)的hash值功能(让相同内容的图片变的不一样)
-- 2.优化多次对同一项目混淆log.txt日志覆盖的问题
+- 2.修复处理webp格式图片闪退bug
 
 
 查看更多：[🔍查看更多历史更新记录](https://github.com/netyouli/WHC_ConfuseSoftware/blob/master/history_readme.md)
