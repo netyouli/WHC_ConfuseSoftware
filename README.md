@@ -2,13 +2,13 @@
 
 <div align=center><img src="https://github.com/netyouli/WHC_ConfuseSoftware/blob/master/ConfuseSoftware/logo.png" width = "100" height = "100"/></div></br>
 
-## 最新版本：v1.9.4.1
+## 最新版本：v1.9.4.2
 
 该软件主要解决机器审核4.3、2.1（使用模拟人工手动混淆模式防止出现因为混淆原因出现2.3.1）
 
-### v1.9.4.1更新内容：
-- 1.添加自动修改项目资源文件(png,jpg,jpeg,mp3,mp4,caf)的hash值功能(让相同内容的图片变的不一样)
-- 2.修复处理webp格式图片闪退bug
+### v1.9.4.2更新内容：
+- 1.修复在混淆处理一个源文件里定义多个类出现闪退bug
+- 2.优化修改资源文件hash功能，可单独对项目所有资源进行修改
 
 
 查看更多：[🔍查看更多历史更新记录](https://github.com/netyouli/WHC_ConfuseSoftware/blob/master/history_readme.md)
@@ -16,7 +16,7 @@
 Introduce
 ==============
 -  ☑ 支持Swift、Objc、u3d项目、cpp文件名类名修改翻新混淆
--  ☑ 支持自动修改资源文件(png,jpg,jpeg,mp3,mp4,caf)hash值
+-  ☑ 支持自动修改资源文件hash值(png,jpg,jpeg,mp3,mp4,caf)
 -  ☑ 支持一键项目克隆功能（自动创建指定名称的项目并克隆指定项目里代码库依赖配置、支持Pod）、类似React-Native构建工具自动生成指定名称Xcode工程
 -  ☑ 支持swift、objc项目字符串混淆加密(支持中文英文符号表情符号混淆加密)
 -  ☑ 支持文件名、类名、方法名、属性名、xib、storyborad关联方法名类名的翻新修改
