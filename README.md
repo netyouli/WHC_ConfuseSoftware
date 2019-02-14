@@ -2,13 +2,13 @@
 
 <div align=center><img src="https://github.com/netyouli/WHC_ConfuseSoftware/blob/master/ConfuseSoftware/logo.png" width = "100" height = "100"/></div></br>
 
-## 最新版本：v1.9.4.2
+## 最新版本：v1.9.4.3.1
 
 该软件主要解决机器审核4.3、2.1（使用模拟人工手动混淆模式防止出现因为混淆原因出现2.3.1）
 
-### v1.9.4.2更新内容：
-- 1.修复在混淆处理一个源文件里定义多个类出现闪退bug
-- 2.优化修改资源文件hash功能，可单独对项目所有资源进行修改
+### v1.9.4.3.1更新内容：
+- 1.添加还原固定混淆模式(主要针对混淆后的版本迭代更新)
+- 2.修复过滤头文件时项目相同未过滤头文件名被修改的bug
 
 
 查看更多：[🔍查看更多历史更新记录](https://github.com/netyouli/WHC_ConfuseSoftware/blob/master/history_readme.md)
