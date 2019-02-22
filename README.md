@@ -2,14 +2,15 @@
 
 <div align=center><img src="https://github.com/netyouli/WHC_ConfuseSoftware/blob/master/ConfuseSoftware/logo.png" width = "100" height = "100"/></div></br>
 
-## 最新版本：v1.9.4.4beta
+## 最新版本：v1.9.4.5beta
 
 该软件主要解决机器审核4.3、2.1（使用模拟人工手动混淆模式防止出现因为混淆原因出现2.3.1）
 
-### v1.9.4.4beta更新内容：
-- 1.针对大型项目优化混淆速度、自动根据电脑配置开启合适线程数量进行混淆
+### v1.9.4.5beta更新内容：
+- 1.针对大型项目优化混淆速度占用的内存问题、自动根据电脑配置开启合适线程数量进行混淆
 - 2.修复Category头文件引用特需情况被误修改bug
 - 3.优化克隆大型项目时软件占用过大的内存
+- 4.优化修复发现的问题
 
 
 查看更多：[🔍查看更多历史更新记录](https://github.com/netyouli/WHC_ConfuseSoftware/blob/master/history_readme.md)
