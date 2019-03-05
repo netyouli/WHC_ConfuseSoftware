@@ -2,14 +2,14 @@
 
 <div align=center><img src="https://github.com/netyouli/WHC_ConfuseSoftware/blob/master/ConfuseSoftware/logo.png" width = "100" height = "100"/></div></br>
 
-## 最新版本：v1.9.4.6beta
+## 最新版本：v1.9.4.7beta
 
 该软件主要解决机器审核4.3、2.1（使用模拟人工手动混淆模式防止出现因为混淆原因出现2.3.1）
 
-### v1.9.4.6beta更新内容：
-- 1.进一步优化混淆速度和占用的内存
-- 2.支持修改c++文件名类名结构体名（class, struct）
-- 3.修复用户反馈的问题
+### v1.9.4.7beta更新内容：
+- 1.修复1.9.4.6beta版本4核电脑多线程生成文件名不一致问题
+- 2.支持修改cocos2dx c++函数名
+- 3.修复用户反馈发现的问题
 
 
 查看更多：[🔍查看更多历史更新记录](https://github.com/netyouli/WHC_ConfuseSoftware/blob/master/history_readme.md)
