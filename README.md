@@ -2,13 +2,13 @@
 
 <div align=center><img src="https://github.com/netyouli/WHC_ConfuseSoftware/blob/master/ConfuseSoftware/logo.png" width = "100" height = "100"/></div></br>
 
-## 最新版本：v1.9.5.1beta
+## 最新版本：v1.9.5.2
 
 该软件主要解决机器审核4.3、2.1（使用模拟人工手动混淆模式防止出现因为混淆原因出现2.3.1）
 
-### v1.9.5.1beta更新内容：
-- 1.添加静态库对应头文件识别过滤
-- 2.添加无用重复未添加到xcode工程文件检查功能，以免影响混淆修改质量
+### v1.9.5.2更新内容：
+- 1.优化对静态库对应头文件识别过滤
+- 2.优化对无用重复未添加到xcode工程文件检查功能，以免影响混淆修改质量
 - 3.修复一些bug增强稳定性
 
 
