@@ -9,6 +9,7 @@
 ### v1.9.5.3更新内容：
 - 1.修复对静态库对应头文件自动识别过滤出现的bug
 - 2.增加手动指定识别工程文件名功能（防止一个工程里面多个子工程出现识别错误问题）
+- 3.增加过滤系统Api数量
 
 
 查看更多：[🔍查看更多历史更新记录](https://github.com/netyouli/WHC_ConfuseSoftware/blob/master/history_readme.md)
