@@ -2,15 +2,13 @@
 
 <div align=center><img src="https://github.com/netyouli/WHC_ConfuseSoftware/blob/master/ConfuseSoftware/logo.png" width = "100" height = "100"/></div></br>
 
-## 最新版本：v1.9.5.3.1
+## 最新版本：v1.9.5.3.2
 
 该软件主要解决机器审核4.3、2.1（使用模拟人工手动混淆模式防止出现因为混淆原因出现2.3.1）
 
-### v1.9.5.3.1更新内容：
-- 1.修复对静态库对应头文件自动识别过滤出现的bug
-- 2.增加手动指定识别工程文件名功能（防止一个工程里面多个子工程出现识别错误问题）
-- 3.增加过滤系统Api数量
-- 4.修复对过滤文件函数误修改bug
+### v1.9.5.3.2更新内容：
+- 1.对重复文件检查增加开关控制
+- 2.修复混淆不同项目工程文件路径没重置的bug
 
 
 查看更多：[🔍查看更多历史更新记录](https://github.com/netyouli/WHC_ConfuseSoftware/blob/master/history_readme.md)
