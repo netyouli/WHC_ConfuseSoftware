@@ -2,13 +2,14 @@
 
 <div align=center><img src="https://github.com/netyouli/WHC_ConfuseSoftware/blob/master/ConfuseSoftware/logo.png" width = "100" height = "100"/></div></br>
 
-## 最新版本：v1.9.5.3.2
+## 最新版本：v1.9.5.3.3
 
 该软件主要解决机器审核4.3、2.1（使用模拟人工手动混淆模式防止出现因为混淆原因出现2.3.1）
 
-### v1.9.5.3.2更新内容：
+### v1.9.5.3.3更新内容：
 - 1.对重复文件检查增加开关控制
 - 2.修复混淆不同项目工程文件路径没重置的bug
+- 3.对不混淆文件名只混淆类名增加开关
 
 
 查看更多：[🔍查看更多历史更新记录](https://github.com/netyouli/WHC_ConfuseSoftware/blob/master/history_readme.md)
@@ -41,17 +42,6 @@ Video
 ==============
 [视频翻新演示：](video)https://pan.baidu.com/s/1_ji0en1xhPd8s_zIrt2LEQ
 
-Require
-==============
-* Mac OS X 10.10+
-
-Install
-==============
-* 下载该项目然后双击文件./ConfuseSoftware/ConfuseSoftware.dmg 安装文件
-
-Usage
-==============
-查看翻新效果例子对比工程：./翻新之后App效果工程   ./翻新之前App效果工程
 
 ## 一键克隆项目
 ![image](https://github.com/netyouli/WHC_ConfuseSoftware/blob/master/ConfuseSoftware/clone.png)
