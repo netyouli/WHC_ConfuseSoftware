@@ -2,12 +2,14 @@
 
 <div align=center><img src="https://github.com/netyouli/WHC_ConfuseSoftware/blob/master/ConfuseSoftware/logo.png" width = "100" height = "100"/></div></br>
 
-## 最新版本：v1.9.5.3.4
+## 最新版本：v1.9.5.3.5
 
 该软件主要解决机器审核4.3、2.1（使用模拟人工手动混淆模式防止出现因为混淆原因出现2.3.1）
 
-### v1.9.5.3.4更新内容：
-- 1.修复t特殊情况swift类名没修改bug
+### v1.9.5.3.5更新内容：
+- 1.优化处理项目重复代码文件
+- 2.优化多线程同步
+- 3.去掉检查项目重复功能（这个已经可以处理不需要了）
 
 
 查看更多：[🔍查看更多历史更新记录](https://github.com/netyouli/WHC_ConfuseSoftware/blob/master/history_readme.md)
