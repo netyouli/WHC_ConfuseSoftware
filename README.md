@@ -16,7 +16,7 @@
 
 Introduce
 ==============
--  ☑ 支持Swift、Objc、u3d项目、cpp文件名类名修改翻新混淆
+-  ☑ 支持Swift、Objc、u3d、cocos2dx项目、cpp文件名类名修改翻新混淆
 -  ☑ 支持多线程混淆、自动根据电脑配置开启合适线程数量进行混淆
 -  ☑ 支持自动修改资源文件hash值(png,jpg,jpeg,mp3,mp4,caf)
 -  ☑ 支持一键项目克隆功能（自动创建指定名称的项目并克隆指定项目里代码库依赖配置、支持Pod）、类似React-Native构建工具自动生成指定名称Xcode工程
@@ -42,6 +42,8 @@ Video
 ==============
 [视频翻新演示：](video)https://pan.baidu.com/s/1_ji0en1xhPd8s_zIrt2LEQ
 
+## 混淆C++
+![image](https://github.com/netyouli/WHC_ConfuseSoftware/blob/master/ConfuseSoftware/cpp.png)
 
 ## 一键克隆项目
 ![image](https://github.com/netyouli/WHC_ConfuseSoftware/blob/master/ConfuseSoftware/clone.png)
