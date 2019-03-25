@@ -2,15 +2,15 @@
 
 <div align=center><img src="https://github.com/netyouli/WHC_ConfuseSoftware/blob/master/ConfuseSoftware/logo.png" width = "100" height = "100"/></div></br>
 
-## 最新版本：v1.9.5.4
+## 最新版本：v1.9.5.5
 
 该软件主要解决机器审核4.3、2.1（使用模拟人工手动混淆模式防止出现因为混淆原因出现2.3.1）
 
-### v1.9.5.4更新内容：
+### v1.9.5.5更新内容：
 - 1.支持c++插入混淆函数和在原有c++函数插入生成混淆函数调用处理代码，打乱原有的调用顺序
 - 2.支持同步修改lua引用的C++类
 - 3.支持xcode自动引用混淆工具混淆完成后生成的相关头文件，无需再手动拖入xcode
-
+-4.修复swift生成的代码数据类型错误bug
 
 查看更多：[🔍查看更多历史更新记录](https://github.com/netyouli/WHC_ConfuseSoftware/blob/master/history_readme.md)
 
