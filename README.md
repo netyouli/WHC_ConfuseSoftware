@@ -2,12 +2,13 @@
 
 <div align=center><img src="https://github.com/netyouli/WHC_ConfuseSoftware/blob/master/ConfuseSoftware/logo.png" width = "100" height = "100"/></div></br>
 
-## 最新版本：v1.9.5.6.1
+## 最新版本：v1.9.5.6.6
 
 该软件主要解决机器审核4.3、2.1（使用模拟人工手动混淆模式防止出现因为混淆原因出现2.3.1）
 
-### v1.9.5.6.1更新内容：
-- 1.修复误修改lua路径引用导致运行崩溃问题
+### v1.9.5.6.6更新内容：
+- 1.修复oc特殊情况提取类结构崩溃问题
+- 2.修复加密字符串特殊情况崩溃问题
 
 
 查看更多：[🔍查看更多历史更新记录](https://github.com/netyouli/WHC_ConfuseSoftware/blob/master/history_readme.md)
