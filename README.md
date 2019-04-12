@@ -2,15 +2,14 @@
 
 <div align=center><img src="https://github.com/netyouli/WHC_ConfuseSoftware/blob/master/ConfuseSoftware/logo.png" width = "100" height = "100"/></div></br>
 
-## 最新版本：v1.9.5.6.8
+## 最新版本：v1.9.5.6.9
 
 该软件主要解决机器审核4.3、2.1（使用模拟人工手动混淆模式防止出现因为混淆原因出现2.3.1）
 
-### v1.9.5.6.8更新内容：
-- 1.增加系统Api过滤数量
-- 2.自动屏蔽set方法插入调用view相关函数
-- 3.增加对hpp文件的处理
-- 4.优化对Asset图片资源处理
+### v1.9.5.6.9更新内容：
+- 1.支持修改tmx文件主要是针对游戏（cocos2dx里面，修改图片名并同步到tmx里面）
+- 2.优化U3D混淆自动过滤不能修改的类名和插入的调用代码
+- 3.优化插入属性
 
 
 查看更多：[🔍查看更多历史更新记录](https://github.com/netyouli/WHC_ConfuseSoftware/blob/master/history_readme.md)
