@@ -2,13 +2,13 @@
 
 <div align=center><img src="https://github.com/netyouli/WHC_ConfuseSoftware/blob/master/ConfuseSoftware/logo.png" width = "100" height = "100"/></div></br>
 
-## 最新版本：v1.9.6.0
+## 最新版本：v1.9.6.2.1
 
 该软件主要解决机器审核4.3、2.1（使用模拟人工手动混淆模式防止出现因为混淆原因出现2.3.1）
 
-### v1.9.6.0更新内容：
-- 1.添加根据项目自动识别不能混淆修改的函数名
-- 2.优化函数名混淆修改
+### v1.9.6.2.1更新内容：
+- 1.优化u3d、cocos2dx、函数头文件插入
+- 2.优化Category文件名+号后面首字母小写的识别
 
 
 查看更多：[🔍查看更多历史更新记录](https://github.com/netyouli/WHC_ConfuseSoftware/blob/master/history_readme.md)
