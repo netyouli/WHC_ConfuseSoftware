@@ -2,13 +2,12 @@
 
 <div align=center><img src="https://github.com/netyouli/WHC_ConfuseSoftware/blob/master/ConfuseSoftware/logo.png" width = "100" height = "100"/></div></br>
 
-## 最新版本：v1.9.6.2.1
+## 最新版本：v1.9.6.3
 
 该软件主要解决机器审核4.3、2.1（使用模拟人工手动混淆模式防止出现因为混淆原因出现2.3.1）
 
-### v1.9.6.2.1更新内容：
-- 1.优化u3d、cocos2dx、函数头文件插入
-- 2.优化Category文件名+号后面首字母小写的识别
+### v1.9.6.3更新内容：
+- 1.优化u3d混淆速度，控制在一分钟以内，精准插入c函数并调用c函数，针对u3d特性支持一键混淆无需任何配置
 
 
 查看更多：[🔍查看更多历史更新记录](https://github.com/netyouli/WHC_ConfuseSoftware/blob/master/history_readme.md)
