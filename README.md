@@ -1,16 +1,15 @@
-# iOS代码混淆v1.9.6.8.2   
+# iOS代码混淆v1.9.6.8.3   
 
 <div align=center><img src="https://github.com/netyouli/WHC_ConfuseSoftware/blob/master/ConfuseSoftware/logo.png" width = "100" height = "100"/></div></br>
 
 
 该软件主要解决机器审核4.3、2.1（使用模拟人工手动混淆模式防止出现因为混淆原因出现2.3.1）
 
-### v1.9.6.8.2更新内容：
+### v1.9.6.8.3更新内容：
 - 1.优化u3d，coco2dx生成c，c++函数数量
 - 2.支持完全自定义属性，函数名，文件名词典集合
 - 3.支持自动混淆生成oc，swift垃圾代码文件并且是互相引用调用，同时自动融合到混淆的项目里面引用调用，无需手动操作
-- 4.修复自定义生成垃圾代码文件数量超过80个缓慢卡的问题
-- 5.修复修改函数名被过滤掉代码文件没同步问题
+- 4.修复手动点击生成objc和swift垃圾代码文件崩溃bug
 
 
 
