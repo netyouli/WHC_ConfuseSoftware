@@ -4,7 +4,7 @@
  * @LastEditTime: 2019-10-20 16:37:39
  -->
 
-# iOS代码混淆v1.9.8.0.4
+# iOS代码混淆v1.9.8.0.5
 
 <div align=center><img src="https://github.com/netyouli/WHC_ConfuseSoftware/blob/master/ConfuseSoftware/logo.png" width = "100" height = "100"/></div></br>
 
@@ -15,8 +15,9 @@
 - 2.支持完全自定义属性，函数名，文件名词典集合
 - 3.支持自动混淆生成oc，swift垃圾代码文件并且是互相引用调用，同时自动融合到混淆的项目里面引用调用，无需手动操作
 
-### v1.9.8.0.4更新内容：
-- 1.修复发现的小问题
+### v1.9.8.0.5更新内容：
+- 1.优化属性混淆，支持c++属性
+- 2.优化加强其他混淆
 
 
 
