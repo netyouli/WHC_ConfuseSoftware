@@ -4,7 +4,7 @@
  * @LastEditTime: 2019-10-20 16:37:39
  -->
 
-# iOS代码混淆v1.9.8.4.5
+# iOS代码混淆v1.9.8.4.7
 
 <div align=center><img src="https://github.com/netyouli/WHC_ConfuseSoftware/blob/master/ConfuseSoftware/logo.png" width = "100" height = "100"/></div></br>
 
@@ -16,7 +16,9 @@
 - 3.支持完全自定义属性，函数名，文件名词典集合
 - 4.支持自动混淆生成oc，swift垃圾代码文件并且是互相引用调用，同时自动融合到混淆的项目里面引用调用，无需手动操作
 
-### v1.9.8.4.5更新内容：
+### v1.9.8.4.7更新内容：
+- 15.更新UI
+- 14.添加扫描敏感字符串功能
 - 13.添加自动调用插入的属性
 - 12.添加是否可以插入混淆函数调用配置
 - 11.支持(文件名，类名，函数名，混淆函数插入)模糊过滤
@@ -62,15 +64,16 @@ Note
 ==============
 - 使用Xcode10加载混淆项目，在混淆之前最好关闭工程，混淆完成了再打开工程，避免Xcode10上面文件名爆红错误
 
+
+## 新版自动翻新iOS项目
+![image](https://github.com/netyouli/WHC_ConfuseSoftware/blob/master/ConfuseSoftware/ui.png)
+
 Video
 ==============
 [视频翻新演示：](video)https://pan.baidu.com/s/1_ji0en1xhPd8s_zIrt2LEQ
 
 ## 混淆C++
 ![image](https://github.com/netyouli/WHC_ConfuseSoftware/blob/master/ConfuseSoftware/cpp.png)
-
-## 一键克隆项目
-![image](https://github.com/netyouli/WHC_ConfuseSoftware/blob/master/ConfuseSoftware/clone.png)
 
 ## 动态混淆演示
 ![](https://github.com/netyouli/WHC_ConfuseSoftware/blob/master/ConfuseSoftware/demo.gif)
@@ -80,14 +83,5 @@ Video
 
 ## 字符串加密混淆反编译前后对比
 ![image](https://github.com/netyouli/WHC_ConfuseSoftware/blob/master/ConfuseSoftware/1.png)![image](https://github.com/netyouli/WHC_ConfuseSoftware/blob/master/ConfuseSoftware/2.png)
-
-## 自动翻新iOS项目
-![image](https://github.com/netyouli/WHC_ConfuseSoftware/blob/master/ConfuseSoftware/翻新1.png)
-
-## 随机生成Objc方法
-![image](https://github.com/netyouli/WHC_ConfuseSoftware/blob/master/ConfuseSoftware/翻新3.png)
-
-## 随机生成Swift方法
-![image](https://github.com/netyouli/WHC_ConfuseSoftware/blob/master/ConfuseSoftware/翻新2.png)
 
 ## 注：该项目不是开源免费使用的软件，如果想要免费开源的用户请慎重下载本项目，目前下载使用是需要购买Vip才能使用，具体详情请咨询作者，谢谢！
