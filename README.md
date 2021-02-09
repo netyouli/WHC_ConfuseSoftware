@@ -4,7 +4,9 @@
  * @LastEditTime: 2019-10-20 16:37:39
  -->
 
-# iOS代码混淆v1.9.8.5.2
+# iOS代码混淆v1.9.8.5.4 
+
+## 产品详细信息请查看官网：[🔍www.wuhaichao.com](http://www.wuhaichao.com)
 
 <div align=center><img src="https://github.com/netyouli/WHC_ConfuseSoftware/blob/master/ConfuseSoftware/logo.png" width = "100" height = "100"/></div></br>
 
