@@ -4,8 +4,10 @@
  * @LastEditTime: 2019-10-20 16:37:39
  -->
 
-# iOS代码混淆v1.9.8.5.7 
+# iOS代码混淆v1.9.8.6.0
 
+## 支持混淆语言：(Objective-c 、Swift、C++、Dart)
+## 支持项目类型：(iOS App、Cocos2dx、Unity3D、Flutter App)
 ## 产品详细信息请查看官网：[www.wuhaichao.com](http://www.wuhaichao.com)
 
 <div align=center><img src="https://github.com/netyouli/WHC_ConfuseSoftware/blob/master/ConfuseSoftware/logo.png" width = "100" height = "100"/></div></br>
