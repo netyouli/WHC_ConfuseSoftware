@@ -4,7 +4,7 @@
  * @LastEditTime: 2019-10-20 16:37:39
  -->
 
-# iOS代码混淆v1.9.8.6.0
+# iOS代码混淆v1.9.8.8.1
 
 ## 支持混淆语言：(Objective-c 、Swift、C++、Dart)
 ## 支持项目类型：(iOS App、Cocos2dx、Unity3D、Flutter App)
@@ -13,7 +13,8 @@
 <div align=center><img src="https://github.com/netyouli/WHC_ConfuseSoftware/blob/master/ConfuseSoftware/logo.png" width = "100" height = "100"/></div></br>
 
 
-该软件主要解决机器审核4.3、2.1（使用模拟人工手动混淆模式防止出现因为混淆原因出现2.3.1）
+该软件主要解决机器审核4.3、2.1、other、专治机器审核（使用模拟人工手动混淆模式防止出现因为混淆原因出现2.3.1）
+最新安装版本可以向作者获取
 
 - 1.加强属性混淆防止误修改同步xib,sb关联属性
 - 2.优化u3d，coco2dx生成c，c++函数数量
@@ -21,6 +22,7 @@
 - 4.支持自动混淆生成oc，swift垃圾代码文件并且是互相引用调用，同时自动融合到混淆的项目里面引用调用，无需手动操作
 - 5.支持自动修改项目UIColor值
 - 6.添加过4.3增强功能
+- 7.优化Flutter混淆
 
 
 ### v1.9.8.5.7更新内容：
