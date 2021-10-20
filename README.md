@@ -4,7 +4,7 @@
  * @LastEditTime: 2019-10-20 16:37:39
  -->
 
-# iOS代码混淆v1.9.8.9.2 更新时间：2021-10-19（最新版本安装包向作者获取）
+# iOS代码混淆v1.9.8.9.3 更新时间：2021-10-20（最新版本安装包向作者获取）
 
 ## 支持混淆语言：(Objective-c 、Swift、C++、Dart)
 ## 支持项目类型：(iOS App、Cocos2dx、Unity3D、Flutter App)
