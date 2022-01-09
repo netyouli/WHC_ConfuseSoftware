@@ -1,10 +1,10 @@
 <!--
  * @Author: whc
  * @Date: 2019-02-23 09:39:29
- * @LastEditTime: 2019-10-20 16:37:39
+ * @LastEditTime: 2022-01-09 20:33:13
  -->
 
-# iOS代码混淆v1.9.9.0.0 更新时间：2021-12-26（最新版本安装包向作者获取）
+# iOS代码混淆v1.9.9.0.1 更新时间：2022-01-09（最新版本安装包向作者获取）
 
 ## 支持混淆语言：(Objective-c 、Swift、C++、C、Dart)
 ## 支持项目类型：(iOS App、Cocos2dx、Unity3D、Flutter App)
