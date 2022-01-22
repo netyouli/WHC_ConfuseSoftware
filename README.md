@@ -4,11 +4,12 @@
  * @LastEditTime: 2022-01-09 20:33:13
  -->
 
-# iOS代码混淆v1.9.9.0.2 更新时间：2022-01-16（最新版本安装包向作者获取）
+# iOS代码混淆v1.9.9.0.3 更新时间：2022-01-22（最新版本安装包向作者获取）
 
 ## 支持混淆语言：(Objective-c 、Swift、C++、C、Dart)
 ## 支持项目类型：(iOS App、Cocos2dx、Unity3D、Flutter App)
 ## 支持图片全量像素翻新混淆(一张图片随机变成另外一张图片，省去作图的麻烦)
+## 支持xib，storyboar控件id混淆，约束frame微调
 ## 产品详细信息请查看官网：[www.wuhaichao.com](http://www.wuhaichao.com)
 
 <div align=center><img src="https://github.com/netyouli/WHC_ConfuseSoftware/blob/master/ConfuseSoftware/logo.png" width = "100" height = "100"/></div></br>
