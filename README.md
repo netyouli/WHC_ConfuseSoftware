@@ -4,7 +4,7 @@
  * @LastEditTime: 2022-01-09 20:33:13
  -->
 
-# iOS代码混淆v1.9.9.0.3 更新时间：2022-01-22（最新版本安装包向作者获取）
+# iOS代码混淆v1.9.9.0.4 更新时间：2022-02-19（最新版本安装包向作者获取）
 
 ## 支持混淆语言：(Objective-c 、Swift、C++、C、Dart)
 ## 支持项目类型：(iOS App、Cocos2dx、Unity3D、Flutter App)
@@ -54,7 +54,7 @@ Introduce
 -  ☑ 支持自动混淆生成oc，swift垃圾代码文件并且是互相引用调用，同时自动融合到混淆的项目里面引用调用，无需手动操作
 -  ☑ 支持自动修改资源文件hash值(png,jpg,jpeg,mp3,mp4,caf)
 -  ☑ 支持一键项目克隆功能修改代码文件的uuid（自动创建指定名称的项目并克隆指定项目里代码库依赖配置、支持Pod）、类似React-Native构建工具自动生成指定名称Xcode工程
--  ☑ 支持swift、objc项目字符串混淆加密(支持中文英文符号表情符号混淆加密)
+-  ☑ 支持swift、objc、flutter项目字符串混淆加密(支持中文英文符号表情符号混淆加密)
 -  ☑ 支持文件名、类名、方法名、属性名、xib、storyborad关联方法名类名的翻新修改
 -  ☑ 支持mp3、wav、png、jpg、jpeg、gif、Assets.xcassets里图片资源文件名自动翻新并同步到代码里
 -  ☑ 支持添加混淆方法体、添加混淆属性
