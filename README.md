@@ -1,19 +1,17 @@
 <!--
  * @Author: whc
  * @Date: 2019-02-23 09:39:29
- * @LastEditTime: 2022-03-19 21:59:12
+ * @LastEditTime: 2022-03-19 22:25:46
  -->
 
-# iOS代码混淆v1.9.9.0.8 更新时间：2022-03-19（最新版本安装包向作者获取）
+# iOS代码混淆v1.9.9.0.8 更新时间：2022-03-19（最新版本安装包向作者获取）混淆沟通iOS审核交流群：490149447
 
 ## 支持混淆语言：(Objective-c 、Swift、C++、C、Dart)
-## 支持项目类型：(iOS App、Cocos2dx、Unity3D、Flutter App)
-## 支持图片全量像素翻新混淆(一张图片随机变成另外一张图片，省去作图的麻烦)
-## 支持xib，storyboar控件id混淆，约束frame微调
-## 混淆沟通iOS审核交流群：490149447
+## 支持项目类型：(iOS App、Cocos2dx、Unity3D、Flutter)
+## 优势：模拟人工混淆，功能完善强大稳定，混淆编译错误很少，支持图片icon智能变色（如黄色变成红色）
 ## 产品详细信息请查看官网：[www.wuhaichao.com](http://www.wuhaichao.com)
 
-<div style="height:200px;width:200px;border:2px solid #F00;background:#BA2636;" align=center><img src="https://github.com/netyouli/WHC_ConfuseSoftware/blob/master/ConfuseSoftware/logo.png" width = "100" height = "100"/></div></br>
+<div align=center><img src="https://github.com/netyouli/WHC_ConfuseSoftware/blob/master/ConfuseSoftware/logo.png" width = "100" height = "100"/></div></br>
 
 该软件主要解决机器审核4.3、2.1、other、专治机器审核（使用模拟人工手动混淆模式防止出现因为混淆原因出现2.3.1）
 
@@ -21,25 +19,28 @@
 
 Introduce
 ==============
--  ☑ 支持Swift、Objc、Unity3d、Cocos2dx、Flutter项目、cpp文件名类名修改翻新混淆
--  ☑ 支持项目文件夹名称自动修改
--  ☑ 支持多线程混淆、自动根据电脑配置开启合适线程数量进行混淆
--  ☑ 支持自动混淆生成oc，swift垃圾代码文件并且是互相引用调用，同时自动融合到混淆的项目里面引用调用，无需手动操作
--  ☑ 支持自动修改资源文件hash值(png,jpg,jpeg,mp3,mp4,caf)
--  ☑ 支持一键项目克隆功能修改代码文件的uuid（自动创建指定名称的项目并克隆指定项目里代码库依赖配置、支持Pod）、类似React-Native构建工具自动生成指定名称Xcode工程
--  ☑ 支持swift、objc、flutter项目字符串混淆加密(支持中文英文符号表情符号混淆加密)
--  ☑ 支持文件名、类名、方法名、属性名、xib、storyborad关联方法名类名的翻新修改
--  ☑ 支持mp3、wav、png、jpg、jpeg、gif、Assets.xcassets里图片资源文件名自动翻新并同步到代码里
--  ☑ 支持添加混淆方法体、添加混淆属性
--  ☑ 支持自动调用生成的混淆方法体
--  ☑ 支持生成函数、属性名称翻新混淆
--  ☑ 支持部分混淆(可选插入方法、可选插入属性、可选插入调用生成的方法体)
--  ☑ 支持生成并自动插入混淆函数体
--  ☑ 支持生成并自动插入混淆属性声明
--  ☑ 支持生成详情翻新日志文件(方便排查翻新后产生的编译错误)
--  ☑ 支持加载混淆配置(过滤不需要翻新的方法名、文件名、目录下子文件)
--  ☑ 支持混淆指定的文件夹和文件代码
--  ☑ 支持忽略混淆指定的文件夹和文件代码
+
+-  ☑ 1.支持iOS、Unity3d、Cocos2dx、Flutter项目翻新混淆
+-  ☑ 2.支持项目文件夹名称自动翻新混淆
+-  ☑ 3.支持多线程混淆、自动根据电脑配置开启合适线程数量进行混淆
+-  ☑ 4.支持自动混淆生成oc，swift垃圾代码文件并且是互相引用调用，同时自动融合到混淆的项目里面引用调用，无需手动操作
+-  ☑ 5.支持自动修改资源文件hash值(png,jpg,jpeg,mp3,mp4,caf)
+-  ☑ 6.支持一键项目克隆功能修改代码文件的uuid（自动创建指定名称的项目并克隆指定项目里代码库依赖配置、支持Pod）、类似React-Native构建工具自动生成指定名称Xcode工程
+-  ☑ 7.支持swift、objc、flutter项目字符串混淆加密(支持中文英文符号表情符号混淆加密)
+-  ☑ 8.支持文件名混淆(Objc, Swift, C, C++, Dart, Xib, Storyborad)
+-  ☑ 9.支持类名混淆(Objc, Swift, C, C++, Dart)
+-  ☑ 10.支持函数名混淆(Objc, Swift, C, C++, Dart)
+-  ☑ 11.支持属性名混淆(Objc, Swift, C, C++, Dart)
+-  ☑ 12.支持资源文件(mp3、wav、png、jpg、jpeg、gif、Assets.xcassets)翻新混淆
+-  ☑ 13.支持插入混淆垃圾函数并调用(Objc,Swift,C++,Dart)
+-  ☑ 14.支持插入混淆垃圾属性并调用(Objc,Swift,C++,Dart)
+-  ☑ 15.支持个性化配置自定义混淆(过滤, 自定义词汇, 混淆力度等等。。。)
+-  ☑ 16.支持清理代码注释(Objc,Swift,C,C++,Dart)
+-  ☑ 17.支持混淆UIColor值(Objc,Swift,Dart)
+-  ☑ 18.支持混淆Xib, StoryBorad控件id值
+-  ☑ 19.支持打乱类函数定义顺序
+-  ☑ 20.支持提取项目类名，函数名，属性名词汇
+-  ☑ 21.支持图片像素混淆(统一智能变色)
 
 
 Note
