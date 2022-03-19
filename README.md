@@ -1,54 +1,27 @@
 <!--
  * @Author: whc
  * @Date: 2019-02-23 09:39:29
- * @LastEditTime: 2022-01-09 20:33:13
+ * @LastEditTime: 2022-03-19 21:56:51
  -->
 
-# iOS代码混淆v1.9.9.0.7 更新时间：2022-03-13（最新版本安装包向作者获取）
+# iOS代码混淆v1.9.9.0.8 更新时间：2022-03-19（最新版本安装包向作者获取）
 
 ## 支持混淆语言：(Objective-c 、Swift、C++、C、Dart)
 ## 支持项目类型：(iOS App、Cocos2dx、Unity3D、Flutter App)
 ## 支持图片全量像素翻新混淆(一张图片随机变成另外一张图片，省去作图的麻烦)
 ## 支持xib，storyboar控件id混淆，约束frame微调
+## 混淆沟通iOS审核交流群：490149447
 ## 产品详细信息请查看官网：[www.wuhaichao.com](http://www.wuhaichao.com)
 
-<div align=center><img src="https://github.com/netyouli/WHC_ConfuseSoftware/blob/master/ConfuseSoftware/logo.png" width = "100" height = "100"/></div></br>
+<div style="height:200px;width:200px;border:2px solid #F00" align=center><img src="https://github.com/netyouli/WHC_ConfuseSoftware/blob/master/ConfuseSoftware/logo.png" width = "100" height = "100"/></div></br>
 
 该软件主要解决机器审核4.3、2.1、other、专治机器审核（使用模拟人工手动混淆模式防止出现因为混淆原因出现2.3.1）
-
-- 1.加强属性混淆防止误修改同步xib,sb关联属性
-- 2.优化u3d，coco2dx生成c，c++函数数量
-- 3.支持完全自定义属性，函数名，文件名词典集合
-- 4.支持自动混淆生成oc，swift垃圾代码文件并且是互相引用调用，同时自动融合到混淆的项目里面引用调用，无需手动操作
-- 5.支持自动修改项目UIColor值
-- 6.添加过4.3增强功能
-- 7.优化Flutter混淆
-
-
-### v1.9.8.5.7更新内容：
-- 1.优化属性混淆，支持c++属性
-- 2.优化加强其他混淆
-- 3.增强生成混淆函数体结构复杂度和真实随机选（swift，oc，c++）
-- 4.增加自动调用生成的混淆函数复杂度和真实随机选（swift，oc，c++）
-- 5.优化u3d游戏c++混淆（c++函数生成自动调用）
-- 6.支持混淆指定的文件夹和文件代码 (配置文件里面配置)
-- 7.支持忽略混淆指定的文件夹和文件代码 (配置文件里面配置)
-- 8.增加swift，oc，c++源代码文件生成混淆函数比例控制
-- 9.增加oc，c++头文件生成定义混淆函数比例控制
-- 10.支持c++类插入混淆属性并自动调用
-- 11.支持(文件名，类名，函数名，混淆函数插入)模糊过滤
-- 12.添加是否可以插入混淆函数调用配置
-- 13.添加自动调用插入的属性
-- 14.添加扫描敏感字符串功能
-- 15.更新UI
-
-
 
 查看更多：[🔍查看更多历史更新记录](https://github.com/netyouli/WHC_ConfuseSoftware/blob/master/history_readme.md)
 
 Introduce
 ==============
--  ☑ 支持Swift、Objc、u3d、cocos2dx项目、cpp文件名类名修改翻新混淆
+-  ☑ 支持Swift、Objc、Unity3d、Cocos2dx、Flutter项目、cpp文件名类名修改翻新混淆
 -  ☑ 支持项目文件夹名称自动修改
 -  ☑ 支持多线程混淆、自动根据电脑配置开启合适线程数量进行混淆
 -  ☑ 支持自动混淆生成oc，swift垃圾代码文件并且是互相引用调用，同时自动融合到混淆的项目里面引用调用，无需手动操作
@@ -71,7 +44,7 @@ Introduce
 
 Note
 ==============
-- 使用Xcode10加载混淆项目，在混淆之前最好关闭工程，混淆完成了再打开工程，避免Xcode10上面文件名爆红错误
+- 使用Xcode加载混淆项目，在混淆之前最好关闭工程，混淆完成了再打开工程，避免Xcode没刷新问题导致上面文件名爆红错误
 
 
 ## 新版自动翻新iOS项目
@@ -79,7 +52,7 @@ Note
 
 Video
 ==============
-[视频翻新演示：](video)https://pan.baidu.com/s/1_ji0en1xhPd8s_zIrt2LEQ
+[混淆视频翻新演示：](video)https://pan.baidu.com/s/1_ji0en1xhPd8s_zIrt2LEQ
 
 ## 混淆C++
 ![image](https://github.com/netyouli/WHC_ConfuseSoftware/blob/master/ConfuseSoftware/cpp.png)
