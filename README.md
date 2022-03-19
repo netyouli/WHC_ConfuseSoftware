@@ -1,7 +1,7 @@
 <!--
  * @Author: whc
  * @Date: 2019-02-23 09:39:29
- * @LastEditTime: 2022-03-19 21:56:51
+ * @LastEditTime: 2022-03-19 21:59:12
  -->
 
 # iOS代码混淆v1.9.9.0.8 更新时间：2022-03-19（最新版本安装包向作者获取）
@@ -13,7 +13,7 @@
 ## 混淆沟通iOS审核交流群：490149447
 ## 产品详细信息请查看官网：[www.wuhaichao.com](http://www.wuhaichao.com)
 
-<div style="height:200px;width:200px;border:2px solid #F00" align=center><img src="https://github.com/netyouli/WHC_ConfuseSoftware/blob/master/ConfuseSoftware/logo.png" width = "100" height = "100"/></div></br>
+<div style="height:200px;width:200px;border:2px solid #F00;background:#BA2636;" align=center><img src="https://github.com/netyouli/WHC_ConfuseSoftware/blob/master/ConfuseSoftware/logo.png" width = "100" height = "100"/></div></br>
 
 该软件主要解决机器审核4.3、2.1、other、专治机器审核（使用模拟人工手动混淆模式防止出现因为混淆原因出现2.3.1）
 
