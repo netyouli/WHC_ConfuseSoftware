@@ -1,7 +1,7 @@
 <!--
  * @Author: whc
  * @Date: 2019-02-23 09:39:29
- * @LastEditTime: 2022-03-19 22:37:58
+ * @LastEditTime: 2022-03-19 22:40:25
  -->
 
 # iOS代码混淆v1.9.9.0.8 更新时间：2022-03-19（最新版本安装包向作者获取）混淆沟通iOS审核交流群：490149447
@@ -10,7 +10,7 @@
 ## 支持项目类型：(iOS App、Cocos2dx、Unity3D、Flutter)
 ## 优势：本软件经历过上千人数万次不同项目混淆检验，各种大型项目混淆检验，更新迭代4年多，功能完善强大稳定，混淆编译错误很少，支持图片icon智能变色（如黄色变成红色），完善的售后服务有求必应，软件作者技术实力强有足够的能力修复问题以及开发新功能完成版本更新迭代
 ## 产品详细信息请查看官网：[www.wuhaichao.com](http://www.wuhaichao.com)
-## 目前市面上大部分混淆软件都是混淆demo玩具骗人的，功能没什么用混淆一堆错误，请购买使用前看看作者技术实力有没有能力做好混淆软件
+## ⚠️[目前市面上大部分混淆软件都是混淆demo玩具骗人的，功能没什么用混淆一堆错误，请购买使用前看看作者技术实力有没有能力做好混淆软件，谨防上当受骗]
 
 <div align=center><img src="https://github.com/netyouli/WHC_ConfuseSoftware/blob/master/ConfuseSoftware/logo.png" width = "100" height = "100"/></div></br>
 
