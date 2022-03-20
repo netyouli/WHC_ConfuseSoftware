@@ -9,6 +9,9 @@
 ## 支持混淆语言：(Objective-c 、Swift、C++、C、Dart)
 ## 支持项目类型：(iOS App、Cocos2dx、Unity3D、Flutter)
 ## 优势：本软件经历过上千人数万次不同项目混淆检验，各种大型项目混淆检验，更新迭代4年多，功能完善强大稳定，混淆编译错误很少，支持图片icon智能变色（如黄色变成红色），完善的售后服务有求必应，软件作者技术实力强有足够的能力修复问题以及开发新功能完成版本更新迭代
+
+## 视频演示 [iOS代码混淆助手使用视频演示：](video)https://share.weiyun.com/iXVgjBnE
+
 ## 产品详细信息请查看官网：[www.wuhaichao.com](http://www.wuhaichao.com)
 ## ⚠️目前市面上大部分混淆软件都是混淆demo玩具骗人的，功能简单没什么用混淆一堆错误，请购买使用前看看作者技术实力有没有能力做好混淆软件，谨防上当受骗
 
@@ -18,11 +21,8 @@
 
 查看更多：[🔍查看更多历史更新记录](https://github.com/netyouli/WHC_ConfuseSoftware/blob/master/history_readme.md)
 
-Video
-==============
-[iOS代码混淆助手使用视频演示：](video)https://share.weiyun.com/iXVgjBnE
 
-Introduce
+功能介绍
 ==============
 
 -  ☑ 1.支持iOS、Unity3d、Cocos2dx、Flutter项目翻新混淆
