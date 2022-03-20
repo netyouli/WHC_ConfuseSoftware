@@ -8,7 +8,7 @@
 
 ## 支持混淆语言：(Objective-c 、Swift、C++、C、Dart)
 ## 支持项目类型：(iOS App、Cocos2dx、Unity3D、Flutter)
-## 使用视频演示：https://share.weiyun.com/iXVgjBnE
+## 使用视频演示：(微云) https://share.weiyun.com/iXVgjBnE (西瓜视频) https://www.ixigua.com/7077188894449795620?utm_source=xiguastudio&wid_try=1
 ## 优势：本软件经历过上千人数万次不同项目混淆检验，各种大型项目混淆检验，更新迭代4年多，功能完善强大稳定，混淆编译错误很少，支持图片icon智能变色（如黄色变成红色），完善的售后服务有求必应，软件作者技术实力强有足够的能力修复问题以及开发新功能完成版本更新迭代
 
 ## 产品详细信息请查看官网：[www.wuhaichao.com](http://www.wuhaichao.com)
