@@ -8,8 +8,8 @@
 
 ## 支持混淆语言：(Objective-c 、Swift、C++、C、Dart)
 ## 支持项目类型：(iOS App、Cocos2dx、Unity3D、Flutter)
-## 使用视频演示微云：https://share.weiyun.com/iXVgjBnE
-## 使用视频演示西瓜视频：https://www.ixigua.com/7077188894449795620?utm_source=xiguastudio&wid_try=1
+## 混淆演示微云：https://share.weiyun.com/iXVgjBnE
+## 混淆演示西瓜视频：https://www.ixigua.com/7077188894449795620?utm_source=xiguastudio&wid_try=1
 ## 优势：本软件经历过上千人数万次不同项目混淆检验，各种大型项目混淆检验，更新迭代4年多，功能完善强大稳定，混淆编译错误很少，支持图片icon智能变色（如黄色变成红色），完善的售后服务有求必应，软件作者技术实力强有足够的能力修复问题以及开发新功能完成版本更新迭代
 
 ## 产品详细信息请查看官网：[www.wuhaichao.com](http://www.wuhaichao.com)
@@ -47,7 +47,7 @@
 -  ☑ 20.支持提取项目类名，函数名，属性名词汇
 -  ☑ 21.支持图片像素混淆(统一智能变色)
 
-## 新版自动翻新iOS项目
+## 软件界面展示
 ![image](https://github.com/netyouli/WHC_ConfuseSoftware/blob/master/ConfuseSoftware/ui.png)
 
 ## 注：该项目不是开源免费使用的软件，如果想要免费开源的用户请慎重下载本项目，目前下载使用是需要购买Vip才能使用，具体详情请咨询作者，谢谢！
