@@ -1,7 +1,7 @@
 <!--
  * @Author: whc
  * @Date: 2019-02-23 09:39:29
- * @LastEditTime: 2022-03-19 22:45:07
+ * @LastEditTime: 2022-03-20 16:48:02
  -->
 
 # iOS代码混淆v1.9.9.0.8 更新时间：2022-03-19（最新版本安装包向作者获取）混淆沟通iOS审核交流群：490149447
@@ -17,6 +17,10 @@
 该软件主要解决机器审核4.3、2.1、other、专治机器审核（使用模拟人工手动混淆模式防止出现因为混淆原因出现2.3.1）
 
 查看更多：[🔍查看更多历史更新记录](https://github.com/netyouli/WHC_ConfuseSoftware/blob/master/history_readme.md)
+
+Video
+==============
+[iOS代码混淆助手使用视频演示：](video)https://share.weiyun.com/iXVgjBnE
 
 Introduce
 ==============
@@ -43,29 +47,7 @@ Introduce
 -  ☑ 20.支持提取项目类名，函数名，属性名词汇
 -  ☑ 21.支持图片像素混淆(统一智能变色)
 
-
-Note
-==============
-- 使用Xcode加载混淆项目，在混淆之前最好关闭工程，混淆完成了再打开工程，避免Xcode没刷新问题导致上面文件名爆红错误
-
-
 ## 新版自动翻新iOS项目
 ![image](https://github.com/netyouli/WHC_ConfuseSoftware/blob/master/ConfuseSoftware/ui.png)
-
-Video
-==============
-[混淆视频翻新演示：](video)https://pan.baidu.com/s/1_ji0en1xhPd8s_zIrt2LEQ
-
-## 混淆C++
-![image](https://github.com/netyouli/WHC_ConfuseSoftware/blob/master/ConfuseSoftware/cpp.png)
-
-## 动态混淆演示
-![](https://github.com/netyouli/WHC_ConfuseSoftware/blob/master/ConfuseSoftware/demo.gif)
-
-## 手动加解密字符串
-![image](https://github.com/netyouli/WHC_ConfuseSoftware/blob/master/ConfuseSoftware/字符串加密.png)
-
-## 字符串加密混淆反编译前后对比
-![image](https://github.com/netyouli/WHC_ConfuseSoftware/blob/master/ConfuseSoftware/1.png)![image](https://github.com/netyouli/WHC_ConfuseSoftware/blob/master/ConfuseSoftware/2.png)
 
 ## 注：该项目不是开源免费使用的软件，如果想要免费开源的用户请慎重下载本项目，目前下载使用是需要购买Vip才能使用，具体详情请咨询作者，谢谢！
