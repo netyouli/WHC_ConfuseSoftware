@@ -4,11 +4,11 @@
  * @LastEditTime: 2022-03-20 16:48:02
  -->
 
-# iOS代码混淆v1.9.9.0.8 更新时间：2022-03-19（最新版本安装包向作者获取）混淆沟通iOS审核交流群：490149447
+# iOS代码混淆v1.9.9.0.9 更新时间：2022-04-05（最新版本安装包向作者获取）混淆沟通iOS审核交流群：490149447
 
 ## 支持混淆语言：(Objective-c 、Swift、C++、C、Dart)
 ## 支持项目类型：(iOS App、Cocos2dx、Unity3D、Flutter)
-## 混淆演示微云：https://share.weiyun.com/iXVgjBnE
+## 混淆亮点：扰乱改变函数里面原有调用顺序(最新版本支持)
 ## 混淆演示西瓜视频：https://www.ixigua.com/7077188894449795620?utm_source=xiguastudio&wid_try=1
 ## 优势：本软件经历过上千人数万次不同项目混淆检验，各种大型项目混淆检验，更新迭代4年多，功能完善强大稳定，混淆编译错误很少，支持图片icon智能变色（如黄色变成红色），完善的售后服务有求必应，软件作者技术实力强有足够的能力修复问题以及开发新功能完成版本更新迭代
 
@@ -46,6 +46,7 @@
 -  ☑ 19.支持打乱类函数定义顺序
 -  ☑ 20.支持提取项目类名，函数名，属性名词汇
 -  ☑ 21.支持图片像素混淆(统一智能变色)
+-  ☑ 22.支持扰乱改变函数里面的调用顺序(Objc, Swift, C, C++, Dart)
 
 ## 软件界面展示
 ![image](https://github.com/netyouli/WHC_ConfuseSoftware/blob/master/ConfuseSoftware/ui.png)
