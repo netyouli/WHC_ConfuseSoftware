@@ -4,7 +4,7 @@
  * @LastEditTime: 2022-03-20 16:48:02
  -->
 
-# iOS代码混淆v1.9.9.1.1 更新时间：2022-04-17（最新版本安装包向作者获取）混淆沟通iOS审核交流群：490149447
+# iOS代码混淆v1.9.9.1.2 更新时间：2022-05-03（最新版本安装包向作者获取）混淆沟通iOS审核交流群：490149447
 
 ## 支持混淆语言：(Objective-c 、Swift、C++、C、Dart)
 ## 支持项目类型：(iOS App、Cocos2dx、Unity3D、Flutter)
@@ -47,6 +47,8 @@
 -  ☑ 20.支持提取项目类名，函数名，属性名词汇
 -  ☑ 21.支持图片像素混淆(统一智能变色)
 -  ☑ 22.支持扰乱改变函数里面的调用顺序(Objc, Swift, C, C++, Dart)
+-  ☑ 23.支持混淆枚举(Objc, Swift, C, C++, Dart)
+-  ☑ 24.支持混淆函数里面局部变量名称(Objc, Swift, C, C++, Dart)
 
 ## 软件界面展示
 ![image](https://github.com/netyouli/WHC_ConfuseSoftware/blob/master/ConfuseSoftware/ui.png)
