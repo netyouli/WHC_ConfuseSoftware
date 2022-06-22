@@ -5,6 +5,11 @@
  -->
 # iOS代码混淆翻新-历史更新记录
 
+### v1.9.9.1.9.2 (2022-06-22):
+    1.优化fultter的Colors混淆
+    2.优化flutter代码插入import错误问题
+    3.优化flutter函数局部变量混淆问题
+
 ### v1.9.9.1.9 (2022-06-19):
     1.适配SwiftUI属性混淆，垃圾代码插入
     2.添加swift的get，set，willset，didSet插入混淆代码
