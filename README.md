@@ -4,10 +4,10 @@
  * @LastEditTime: 2023-01-08 23:16:06
  -->
 
-# iOS代码混淆v1.9.9.3.8.5 更新时间：2023-01-08（最新版本安装包向作者获取）混淆沟通iOS审核交流群：490149447
+# iOS代码混淆v1.9.9.3.9 更新时间：2023-01-18（最新版本安装包向作者获取）混淆沟通iOS审核交流群：490149447
 
-## 支持混淆语言：(Objective-c 、Swift、C++、C、Dart、Android（Java）、微信小程序（js、wxss、wxml、json）)
-## 支持项目类型：(iOS App、Cocos2dx、Unity3D、Flutter、Android、微信小程序)
+## 支持混淆语言：(Objective-c 、Swift、C++、C、Dart、UniApp（TS、JS、VUE）、Android（Java）、微信小程序（js、wxss、wxml、json）)
+## 支持项目类型：(iOS App、Cocos2dx、Unity3D、Flutter、UniApp、Android、微信小程序)
 ## 混淆亮点：支持固定混淆，扰乱改变函数里面原有调用顺序(最新版本支持)，游戏sks二进制文件混淆同步图片名称
 ## 混淆演示西瓜视频：https://www.ixigua.com/7077188894449795620?utm_source=xiguastudio&wid_try=1
 ## 优势：本软件经历过上千人数万次不同项目混淆检验，各种大型项目混淆检验，更新迭代4年多，功能完善强大稳定，混淆编译错误很少，支持图片icon智能变色（如黄色变成红色），完善的售后服务有求必应，软件作者技术实力强有足够的能力修复问题以及开发新功能完成版本更新迭代
@@ -25,7 +25,7 @@
 功能介绍
 ==============
 
--  ☑ 1.支持iOS、Unity3d、Cocos2dx、Flutter、Android、微信小程序 项目翻新混淆
+-  ☑ 1.支持iOS、Unity3d、Cocos2dx、Flutter、UniApp、Android、微信小程序 项目翻新混淆
 -  ☑ 2.支持项目文件夹名称自动翻新混淆
 -  ☑ 3.支持多线程混淆、自动根据电脑配置开启合适线程数量进行混淆
 -  ☑ 4.支持自动混淆生成oc，swift垃圾代码文件并且是互相引用调用，同时自动融合到混淆的项目里面引用调用，无需手动操作

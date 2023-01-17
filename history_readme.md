@@ -1,9 +1,24 @@
 <!--
  * @Author: whc
  * @Date: 2019-02-23 09:39:29
- * @LastEditTime: 2023-01-08 23:15:39
+ * @LastEditTime: 2023-01-18 01:35:43
  -->
 # iOS代码混淆翻新-历史更新记录
+
+### v1.9.9.3.9 (2023-01-18):
+    1.优化oc所有属性混淆模式
+    2.修复uniapp项目克隆import路径错误bug
+    3.支持uniap项目(TS,JS,VUE)文件名混淆
+    4.支持uniap项目(TS,JS,VUE)类名混淆
+    5.支持uniap项目(TS,VUE)Type名称混淆
+    6.支持uniap项目(TS,VUE)Interface名称混淆
+    7.支持uniap项目(TS,VUE)Enum名称混淆
+    8.支持uniap项目(VUE)属性名称混淆
+    9.支持uniap项目(VUE)函数名混淆
+    10.支持uniap项目(VUE)标签class名混淆
+    11.支持uniap项目标签样式颜色值混淆
+    12.支持uniap项目(TS,JS,VUE)字符串加密
+    13.支持uniap项目(TS,JS,VUE)插入垃圾代码扰乱原有执行顺序
 
 ### v1.9.9.3.8.5 (2023-01-08):
     1.优化java属性混淆
