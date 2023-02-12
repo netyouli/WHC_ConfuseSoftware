@@ -1,10 +1,13 @@
 <!--
  * @Author: whc
  * @Date: 2019-02-23 09:39:29
- * @LastEditTime: 2023-02-08 07:38:52
+ * @LastEditTime: 2023-02-12 20:52:05
  -->
 
-# iOS代码混淆v1.9.9.4.0 更新时间：2023-02-08（最新版本安装包向作者获取）混淆沟通iOS审核交流群：490149447
+# iOS,Android,Uniapp代码混淆v1.9.9.4.1 更新时间：2023-02-12（最新版本安装包向作者获取）
+## 混淆沟通iOS审核交流群：490149447
+## 混淆沟通Android审核交流群：764148031
+## 混淆沟通Uniapp审核交流群：764190282
 
 ## 支持混淆语言：(Objective-c 、Swift、C++、C、Dart、UniApp（TS、JS、VUE）、Android（Java）、微信小程序（js、wxss、wxml、json）)
 ## 支持项目类型：(iOS App、Cocos2dx、Unity3D、Flutter、UniApp、Android、微信小程序)
