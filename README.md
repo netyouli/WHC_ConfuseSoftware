@@ -1,7 +1,7 @@
 <!--
  * @Author: whc
  * @Date: 2019-02-23 09:39:29
- * @LastEditTime: 2023-02-12 20:52:05
+ * @LastEditTime: 2023-02-12 21:57:31
  -->
 
 # iOS,Android,Uniapp代码混淆v1.9.9.4.1 更新时间：2023-02-12（最新版本安装包向作者获取）
@@ -57,6 +57,8 @@
 -  ☑ 27.支持混淆协议名称(Objc, Swift)
 
 ## 软件界面展示
+![image](https://github.com/netyouli/WHC_ConfuseSoftware/blob/master/ConfuseSoftware/new.png)
+## 老版本
 ![image](https://github.com/netyouli/WHC_ConfuseSoftware/blob/master/ConfuseSoftware/ui.png)
 
 ## 注：该项目不是开源免费使用的软件，如果想要免费开源的用户请慎重下载本项目，目前下载使用是需要购买Vip才能使用，具体详情请咨询作者，谢谢！
