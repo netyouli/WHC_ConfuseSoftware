@@ -1,9 +1,18 @@
 <!--
  * @Author: whc
  * @Date: 2019-02-23 09:39:29
- * @LastEditTime: 2023-02-12 20:50:24
+ * @LastEditTime: 2023-02-20 07:28:47
  -->
 # 代码混淆翻新-历史更新记录
+
+### v1.9.9.4.2 (2023-02-20):
+    1.支持uniapp项目的nvue代码混淆
+    2.优化android混淆类名的速度
+    3.修复android文件名类名不一致情况
+    4.修复android类名混淆bug
+    5.修复android资源混淆bug
+    6.优化java函数名混淆
+    7.修复ios项目bundle名称和类名一样导致错误bug
 
 ### v1.9.9.4.1 (2023-02-12):
     1.优化android的cocos2dx项目混淆
