@@ -1,10 +1,10 @@
 <!--
  * @Author: whc
  * @Date: 2019-02-23 09:39:29
- * @LastEditTime: 2023-03-05 22:57:26
+ * @LastEditTime: 2023-03-19 22:42:35
  -->
 
-# iOS,Android,Uniapp代码混淆v1.9.9.4.4 更新时间：2023-03-05（最新版本安装包向作者获取）
+# iOS,Android,Uniapp,Unity3D,Flutter代码混淆v1.9.9.4.5 更新时间：2023-03-19（最新版本安装包向作者获取）
 ## 混淆沟通iOS审核交流群：490149447
 ## 混淆沟通Android审核交流群：764148031
 ## 混淆沟通Uniapp审核交流群：764190282
@@ -31,7 +31,7 @@
 -  ☑ 1.支持iOS、Unity3d、Cocos2dx、Flutter、UniApp、Android、微信小程序 项目翻新混淆
 -  ☑ 2.支持项目文件夹名称自动翻新混淆
 -  ☑ 3.支持多线程混淆、自动根据电脑配置开启合适线程数量进行混淆
--  ☑ 4.支持自动混淆生成oc，swift垃圾代码文件并且是互相引用调用，同时自动融合到混淆的项目里面引用调用，无需手动操作
+-  ☑ 4.支持自动混淆生成oc，swift，java垃圾代码文件并且是互相引用调用，同时自动融合到混淆的项目里面引用调用，无需手动操作
 -  ☑ 5.支持自动修改资源文件hash值(png,jpg,jpeg,mp3,mp4,caf)
 -  ☑ 6.支持一键项目克隆功能修改代码文件的uuid（自动创建指定名称的项目并克隆指定项目里代码库依赖配置、支持Pod）、类似React-Native构建工具自动生成指定名称Xcode工程
 -  ☑ 7.支持swift、objc、flutter项目字符串混淆加密(支持中文英文符号表情符号混淆加密)
@@ -55,6 +55,8 @@
 -  ☑ 25.支持SwiftUI属性调用垃圾代码插入
 -  ☑ 26.支持Swift的get，set，didSet，willSet属性调用垃圾代码插入
 -  ☑ 27.支持混淆协议名称(Objc, Swift)
+-  ☑ 28.支持混淆宏定义名称(Objc, c/c++)
+-  ☑ 29.支持生成额外代码文件并自动调用（swift, oc, java）
 
 ## 软件界面展示
 ![image](https://github.com/netyouli/WHC_ConfuseSoftware/blob/master/ConfuseSoftware/new.png)
