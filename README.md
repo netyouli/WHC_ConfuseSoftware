@@ -1,10 +1,10 @@
 <!--
  * @Author: whc
  * @Date: 2019-02-23 09:39:29
- * @LastEditTime: 2023-04-06 00:11:09
+ * @LastEditTime: 2023-04-11 07:43:11
  -->
 
-# iOS,Android,Uniapp,Unity3D,Flutter代码混淆v1.9.9.4.7 更新时间：2023-04-05（最新版本安装包向作者获取）
+# iOS,Android,Uniapp,Unity3D,Flutter代码混淆v1.9.9.4.9 更新时间：2023-04-09（最新版本安装包向作者获取）
 ## 混淆沟通iOS审核交流群：490149447
 ## 混淆沟通Android审核交流群：764148031
 ## 混淆沟通Uniapp审核交流群：764190282
@@ -34,7 +34,7 @@
 -  ☑ 4.支持自动混淆生成oc，swift，java垃圾代码文件并且是互相引用调用，同时自动融合到混淆的项目里面引用调用，无需手动操作
 -  ☑ 5.支持自动修改资源文件hash值(png,jpg,jpeg,mp3,mp4,caf)
 -  ☑ 6.支持一键项目克隆功能修改代码文件的uuid（自动创建指定名称的项目并克隆指定项目里代码库依赖配置、支持Pod）、类似React-Native构建工具自动生成指定名称Xcode工程
--  ☑ 7.支持swift、objc、flutter项目字符串混淆加密(支持中文英文符号表情符号混淆加密)
+-  ☑ 7.支持swift、objc、flutter、java、js、vue、ts项目语言字符串混淆加密(支持中文英文符号表情符号混淆加密)
 -  ☑ 8.支持文件名混淆(Objc, Swift, C, C++, Dart, Xib, Storyborad，Java，Xml、js、json、wxml、wxss)
 -  ☑ 9.支持类名混淆(Objc, Swift, C, C++, Dart，Java、js)
 -  ☑ 10.支持函数名混淆(Objc, Swift, C, C++, Dart，Java、js)
