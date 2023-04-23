@@ -1,10 +1,10 @@
 <!--
  * @Author: whc
  * @Date: 2019-02-23 09:39:29
- * @LastEditTime: 2023-04-23 00:27:54
+ * @LastEditTime: 2023-04-23 23:42:18
  -->
 
-# iOS,Android,Uniapp,Unity3D,Flutter代码混淆v1.9.9.5.0 更新时间：2023-04-23（最新版本安装包向作者获取）
+# iOS,Android,Uniapp,Unity3D,Cocos2dx,Flutter代码混淆v1.9.9.5.0 更新时间：2023-04-23（最新版本安装包向作者获取）
 ## 混淆沟通iOS审核交流群：490149447
 ## 混淆沟通Android审核交流群：764148031
 ## 混淆沟通Uniapp审核交流群：764190282
