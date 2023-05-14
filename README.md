@@ -1,15 +1,15 @@
 <!--
  * @Author: whc
  * @Date: 2019-02-23 09:39:29
- * @LastEditTime: 2023-04-23 23:42:18
+ * @LastEditTime: 2023-05-15 00:17:59
  -->
 
-# iOS,Android,Uniapp,Unity3D,Cocos2dx,Flutter代码混淆v1.9.9.5.0.2 更新时间：2023-04-23（最新版本安装包向作者获取）
+# iOS(OC/Swift),Android(Java/Kotlin),Uniapp,Unity3D,Cocos2dx,Flutter代码混淆v1.9.9.5.1 更新时间：2023-05-14（最新版本安装包向作者获取）
 ## 混淆沟通iOS审核交流群：490149447
 ## 混淆沟通Android审核交流群：764148031
 ## 混淆沟通Uniapp审核交流群：764190282
 
-## 支持混淆语言：(Objective-c 、Swift、C++、C、Dart、UniApp（TS、JS、VUE、NVUE）、Android（Java）、微信小程序（js、wxss、wxml、json）)
+## 支持混淆语言：(Objective-c 、Swift、C++、C、Dart、UniApp（TS、JS、VUE、NVUE）、Android（Java、Kotlin）、微信小程序（js、wxss、wxml、json）)
 ## 支持项目类型：(iOS App、Cocos2dx、Unity3D、Flutter、UniApp、Android、微信小程序)
 ## 混淆亮点：支持固定混淆，扰乱改变函数里面原有调用顺序(最新版本支持)，游戏sks二进制文件混淆同步图片名称
 ## 混淆演示西瓜视频：https://www.ixigua.com/7077188894449795620?utm_source=xiguastudio&wid_try=1
@@ -34,27 +34,27 @@
 -  ☑ 4.支持自动混淆生成oc，swift，java垃圾代码文件并且是互相引用调用，同时自动融合到混淆的项目里面引用调用，无需手动操作
 -  ☑ 5.支持自动修改资源文件hash值(png,jpg,jpeg,mp3,mp4,caf)
 -  ☑ 6.支持一键项目克隆功能修改代码文件的uuid（自动创建指定名称的项目并克隆指定项目里代码库依赖配置、支持Pod）、类似React-Native构建工具自动生成指定名称Xcode工程
--  ☑ 7.支持swift、objc、flutter、java、js、vue、ts项目语言字符串混淆加密(支持中文英文符号表情符号混淆加密)
--  ☑ 8.支持文件名混淆(Objc, Swift, C, C++, Dart, Xib, Storyborad，Java，Xml、js、json、wxml、wxss)
--  ☑ 9.支持类名混淆(Objc, Swift, C, C++, Dart，Java、js)
--  ☑ 10.支持函数名混淆(Objc, Swift, C, C++, Dart，Java、js)
--  ☑ 11.支持属性名混淆(Objc, Swift, C, C++, Dart，Java、js)
+-  ☑ 7.支持swift、objc、flutter、java、kotlin、js、vue、ts项目语言字符串混淆加密(支持中文英文符号表情符号混淆加密)
+-  ☑ 8.支持文件名混淆(Objc, Swift, C, C++, Dart, Xib, Storyborad，Java、kotlin、Xml、js、json、wxml、wxss)
+-  ☑ 9.支持类名混淆(Objc, Swift, C, C++, Dart，Java、kotlin、js)
+-  ☑ 10.支持函数名混淆(Objc, Swift, C, C++, Dart，Java、kotlin、js)
+-  ☑ 11.支持属性名混淆(Objc, Swift, C, C++, Dart，Java、kotlin、js)
 -  ☑ 12.支持资源文件(mp3、wav、png、jpg、jpeg、gif、Assets.xcassets)翻新混淆
--  ☑ 13.支持插入混淆垃圾函数并调用(Objc,Swift,C++,Dart)
--  ☑ 14.支持插入混淆垃圾属性并调用(Objc,Swift,C++,Dart)
+-  ☑ 13.支持插入混淆垃圾函数并调用(Objc,Swift,C++,Dart、java、kotlin)
+-  ☑ 14.支持插入混淆垃圾属性并调用(Objc,Swift,C++,Dart、java、kotlin)
 -  ☑ 15.支持个性化配置自定义混淆(过滤, 自定义词汇, 混淆力度等等。。。)
--  ☑ 16.支持清理代码注释(Objc,Swift,C,C++,Dart、Java、js)
--  ☑ 17.支持混淆UIColor值(Objc,Swift,Dart、wxss、wxml)
+-  ☑ 16.支持清理代码注释(Objc,Swift,C,C++,Dart、Java、kotlin、js)
+-  ☑ 17.支持混淆UIColor值(Objc,Swift,Dart、wxss、wxml、java、kotlin)
 -  ☑ 18.支持混淆Xib, StoryBorad控件id值
 -  ☑ 19.支持打乱类函数定义顺序
 -  ☑ 20.支持提取项目类名，函数名，属性名词汇
 -  ☑ 21.支持图片像素混淆(统一智能变色)
--  ☑ 22.支持扰乱改变函数里面的调用顺序(Objc, Swift, C, C++, Dart、js)
--  ☑ 23.支持混淆枚举(Objc, Swift, C, C++, Dart)
+-  ☑ 22.支持扰乱改变函数里面的调用顺序(Objc, Swift, C, C++, Dart、js、java、kotlin)
+-  ☑ 23.支持混淆枚举(Objc, Swift, C, C++, Dart、java、kotlin)
 -  ☑ 24.支持混淆函数里面局部变量名称(Objc, Swift, C, C++, Dart)
 -  ☑ 25.支持SwiftUI属性调用垃圾代码插入
 -  ☑ 26.支持Swift的get，set，didSet，willSet属性调用垃圾代码插入
--  ☑ 27.支持混淆协议名称(Objc, Swift)
+-  ☑ 27.支持混淆协议名称(Objc, Swift、java、kotlin)
 -  ☑ 28.支持混淆宏定义名称(Objc, c/c++)
 -  ☑ 29.支持生成额外代码文件并自动调用（swift, oc, java）
 
