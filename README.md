@@ -4,7 +4,7 @@
  * @LastEditTime: 2023-05-15 00:17:59
  -->
 
-# iOS(OC/Swift),Android(Java/Kotlin),Uniapp,React-Native,Unity3D,Cocos2dx,Flutter代码混淆v1.9.9.5.3 更新时间：2023-06-11（最新版本安装包向作者获取）
+# iOS(OC/Swift),Android(Java/Kotlin),Uniapp,React-Native,H5,Unity3D,Cocos2dx,Flutter代码混淆v1.9.9.5.3.1 更新时间：2023-06-18（最新版本安装包向作者获取）
 
 #### 1.长期源头出售个人开发者账号，公司开发者账号，企业账号，稳定可靠 联系qq：712641411，微信：whc66888
 #### 2.长期源头出售企业签名服务，独家证书，各类型app，先签后付，稳定可靠 飞机：@whcConfuse
@@ -14,7 +14,7 @@
 ## 混淆沟通Uniapp审核交流群：764190282
 
 ## 支持混淆语言：(Objective-c 、Swift、C++、C、Dart、UniApp、React-Native（TS、JS、VUE、NVUE）、Android（Java、Kotlin）、微信小程序（js、wxss、wxml、json）)
-## 支持项目类型：(iOS App、Cocos2dx、Unity3D、Flutter、UniApp、Android、微信小程序)
+## 支持项目类型：(iOS App、Cocos2dx、Unity3D、Flutter、UniApp、React-Native、H5、Android、微信小程序)
 ## 混淆亮点：支持固定混淆，扰乱改变函数里面原有调用顺序(最新版本支持)，游戏sks二进制文件混淆同步图片名称
 ## 混淆演示西瓜视频：https://www.ixigua.com/7077188894449795620?utm_source=xiguastudio&wid_try=1
 ## 优势：本软件经历过上千人数万次不同项目混淆检验，各种大型项目混淆检验，更新迭代5年多，功能完善强大稳定，混淆编译错误很少，支持图片icon智能变色（如黄色变成红色），完善的售后服务有求必应，软件作者技术实力强有足够的能力修复问题以及开发新功能完成版本更新迭代
