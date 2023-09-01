@@ -6,9 +6,8 @@
 
 # iOS(OC/Swift),Android(Java/Kotlin),Uniapp,React-Native,H5,Unity3D,Cocos2dx,Flutter代码混淆v1.9.9.5.3.9.2 更新时间：2023-08-31（最新版本安装包向作者获取）
 
-#### 1.长期源头出售个人开发者账号，公司开发者账号，企业账号，稳定可靠 联系qq：712641411，微信：whc66888
-#### 2.长期源头出售企业签名服务，独家证书，各类型app，先签后付，稳定可靠 飞机：@whcConfuse
-#### 3.长期源头出iOS的AppStore关键词排名ASO打榜服务
+#### 长期出iOS/Google海外(个人，公司)开发者，签名服务，代办app软著，ASO优化
+#### 联系qq：712641411，微信：whc66888，飞机：@whcConfuse
 
 ## 混淆沟通iOS审核交流群：490149447
 ## 混淆沟通Android审核交流群：764148031
