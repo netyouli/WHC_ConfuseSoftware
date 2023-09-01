@@ -7,7 +7,7 @@
 # iOS(OC/Swift),Android(Java/Kotlin),Uniapp,React-Native,H5,Unity3D,Cocos2dx,Flutter代码混淆v1.9.9.5.3.9.2 更新时间：2023-08-31（最新版本安装包向作者获取）
 
 #### 长期出iOS/Google海外(个人，公司)开发者，签名服务，代办app软著，ASO优化
-#### 联系qq：712641411，微信：whc66888，飞机：@whcConfuse
+#### 联系qq：712641411，微信：whc66888，飞机：@codeConfuse
 
 ## 混淆沟通iOS审核交流群：490149447
 ## 混淆沟通Android审核交流群：764148031
