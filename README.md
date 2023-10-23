@@ -4,7 +4,7 @@
  * @LastEditTime: 2023-05-15 00:17:59
  -->
 
-# iOS(OC/Swift),Android(Java/Kotlin),Uniapp,React-Native,H5,Unity3D,Cocos2dx,Flutter代码混淆v1.9.9.5.3.9.9 更新时间：2023-10-16（最新版本安装包向作者获取）
+# iOS(OC/Swift),Android(Java/Kotlin),Uniapp,React-Native,H5,Unity3D,Cocos2dx,Flutter代码混淆v1.9.9.5.4.0.0 更新时间：2023-10-23（最新版本安装包向作者获取）
 
 #### 长期出iOS/Google海外(个人，公司)开发者，签名服务，代办app软著，ASO优化
 #### 联系qq：712641411，微信：whc66888，飞机：@codeConfuse
@@ -31,7 +31,7 @@
 
 功能介绍
 ==============
--  ☑ 0.新垃圾代码(OC,Swift,Dart)升级支持生成海量(单文件上万行)模拟人工手写代码贯穿整个项目
+-  ☑ 0.新垃圾代码(OC,Swift,Dart,C/C++,TS,JS,VUE,NVUE,JSX,TSX)升级支持生成海量(单文件上万行)模拟人工手写代码贯穿整个项目
 -  ☑ 1.支持iOS、Unity3d、Cocos2dx、Flutter、UniApp、Android、微信小程序 项目翻新混淆
 -  ☑ 2.支持项目文件夹名称自动翻新混淆
 -  ☑ 3.支持多线程混淆、自动根据电脑配置开启合适线程数量进行混淆
