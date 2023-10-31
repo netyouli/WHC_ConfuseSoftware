@@ -4,9 +4,9 @@
  * @LastEditTime: 2023-05-15 00:17:59
  -->
 
-# iOS(OC/Swift),Android(Java/Kotlin),Uniapp,React-Native,H5,Unity3D,Cocos2dx,Flutter代码混淆v1.9.9.5.4.0.0 更新时间：2023-10-23（最新版本安装包向作者获取）
+# iOS(OC/Swift),Android(Java/Kotlin),Uniapp,React-Native,H5,Unity3D,Cocos2dx,Flutter代码混淆v1.9.9.5.4.0.1 更新时间：2023-10-31（最新版本安装包向作者获取）
 
-#### 长期出iOS/Google海外(个人，公司)开发者，签名服务，代办app软著，ASO优化
+#### 长期出iOS/Google海外(个人，公司)开发者，签名服务，代办android软著
 #### 联系qq：712641411，微信：whc66888，飞机：@codeConfuse
 
 ## 混淆沟通iOS审核交流群：490149447
@@ -24,7 +24,7 @@
 
 <div align=center><img src="https://github.com/netyouli/WHC_ConfuseSoftware/blob/master/ConfuseSoftware/logo.png" width = "100" height = "100"/></div></br>
 
-该软件主要解决机器审核4.3、2.1、other、专治机器审核（使用模拟人工手动混淆模式防止出现因为混淆原因出现2.3.1）
+该软件主要解决代码重复问题可以辅助解决机器审核4.3、2.1、other、专治因为代码重复或者相似度高机器审核（使用模拟人工手动混淆模式防止出现因为混淆原因出现2.3.1）
 
 查看更多：[🔍查看更多历史更新记录](https://github.com/netyouli/WHC_ConfuseSoftware/blob/master/history_readme.md)
 
@@ -67,4 +67,4 @@
 ## 老版本
 ![image](https://github.com/netyouli/WHC_ConfuseSoftware/blob/master/ConfuseSoftware/ui.png)
 
-## 注：该项目不是开源免费使用的软件，如果想要免费开源的用户请慎重下载本项目，目前下载使用是需要购买Vip才能使用，具体详情请咨询作者，谢谢！
+## 注：该软件不能被用于一切非法用途，若使用该软件造成一切不良后果与作者本人无关，使用者自行负责，该项目不是开源免费使用的软件，如果想要免费开源的用户请慎重下载本项目，目前下载使用是需要购买Vip才能使用，具体详情请咨询作者，谢谢！
