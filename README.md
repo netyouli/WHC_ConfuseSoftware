@@ -6,6 +6,7 @@
 
 # iOS(OC/Swift),Android(Java/Kotlin),Uniapp,React-Native,H5,Unity3D,Cocos2dx,Flutter代码混淆v1.9.9.5.4.1.1 更新时间：2023-01-29（最新版本安装包向作者获取）
 
+## IPA上传文件助手（Mac、Windows）版本，[下载IPA上传助手Mac](http://sendanywhe.re/GXPT3065)、[下载IPA上传助手Windows](http://sendanywhe.re/CXE9E9YQ)
 #### 长期出iOS/Google海外(个人，公司)开发者，签名服务，代办android软著
 #### 联系qq：712641411，微信：whc66888，飞机：@codeConfuse
 
@@ -22,7 +23,7 @@
 ## 产品详细信息请查看官网：[www.wuhaichao.com](http://www.wuhaichao.com)
 ## ⚠️目前市面上大部分混淆软件都是混淆demo玩具骗人的，功能简单没什么用混淆一堆错误，请购买使用前看看作者技术实力有没有能力做好混淆软件，谨防上当受骗
 
-<div align=center><img src="https://github.com/netyouli/WHC_ConfuseSoftware/blob/master/ConfuseSoftware/logo.png" width = "100" height = "100"/></div></br>
+<div align=center><img src="https://github.com/netyouli/WHC_ConfuseSoftware/blob/master/ConfuseSoftware/logo.png" width = "100" height = "100"/><img src="https://github.com/netyouli/WHC_ConfuseSoftware/blob/master/ConfuseSoftware/ipa.png" width = "100" height = "100"/></div></br>
 
 该软件主要解决代码重复问题可以辅助解决机器审核4.3、2.1、other、专治因为代码重复或者相似度高机器审核（使用模拟人工手动混淆模式防止出现因为混淆原因出现2.3.1）
 
@@ -64,6 +65,10 @@
 
 ## 软件界面展示
 ![image](https://github.com/netyouli/WHC_ConfuseSoftware/blob/master/ConfuseSoftware/new.png)
+## IPA上传文件助手Windows版本
+![image](https://github.com/netyouli/WHC_ConfuseSoftware/blob/master/ConfuseSoftware/ipa_windows.png)
+## IPA上传文件助手Mac版本
+![image](https://github.com/netyouli/WHC_ConfuseSoftware/blob/master/ConfuseSoftware/ipa_mac.png)
 ## 老版本
 ![image](https://github.com/netyouli/WHC_ConfuseSoftware/blob/master/ConfuseSoftware/ui.png)
 
