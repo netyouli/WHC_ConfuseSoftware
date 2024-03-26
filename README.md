@@ -4,7 +4,7 @@
  * @LastEditTime: 2023-05-15 00:17:59
  -->
 
-# iOS(OC/Swift),Android(Java/Kotlin),Uniapp,React-Native,H5,Unity3D,Cocos2dx,Flutter代码混淆v1.9.9.5.4.1.6 更新时间：2023-03-17（最新版本安装包向作者获取）
+# iOS(OC/Swift),Android(Java/Kotlin),Uniapp,React-Native,H5,Unity3D,Cocos2dx,Flutter代码混淆v1.9.9.5.4.1.7 更新时间：2023-03-26（最新版本安装包向作者获取）
 
 ## IPA上传文件助手v1.0.3（Mac、Windows）版本，[下载IPA上传助手Mac](https://raw.githubusercontent.com/netyouli/WHC_ConfuseSoftware/master/IPA上传助手-mac-1.0.3.app.7z)、[下载IPA上传助手Windows](https://raw.githubusercontent.com/netyouli/WHC_ConfuseSoftware/master/IPA上传助手-win-1.0.3.exe.7z),解决电脑关联导致各种审核问题(other, 4.3, 2.3.1, 封号等)
 #### 长期出iOS/Google海外(个人，公司)开发者，签名服务，代办android软著
@@ -13,6 +13,7 @@
 ## 混淆沟通iOS审核交流群：490149447
 ## 混淆沟通Android审核交流群：764148031
 ## 混淆沟通Uniapp审核交流群：764190282
+## 关于审核被拒相关问题(4.3,2.3.1,other等)可以查看：[微信公众号提包大佬的文章分析](https://mp.weixin.qq.com/s/PM48yeZ_URRAGGZXcJAfqQ)
 
 ## 支持混淆语言：(Objective-c 、Swift、C++、C、Dart、UniApp、React-Native（TS、JS、VUE、NVUE）、Android（Java、Kotlin）、微信小程序（js、wxss、wxml、json）)
 ## 支持项目类型：(iOS App、Cocos2dx、Unity3D、Flutter、UniApp、React-Native、H5、Android、微信小程序)
