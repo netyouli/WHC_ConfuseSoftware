@@ -5,6 +5,13 @@
  -->
 # 代码混淆翻新-历史更新记录
 
+### v1.9.9.5.4.7
+    1.修复android的kotlin混淆过滤出现文件丢失的bug
+    2.修复ios混淆文件名大小写问题导致丢失爆红的问题
+    3.优化unity混淆问题
+    4.修复swift混淆属性出现xib，sb不同步问题
+    5.优化其他问题
+
 ### v1.9.9.5.4.6
     1.修复android项目xml特殊情况引用路径问题修改不全的bug
     2.支持c#的class名，interface名，struct，record名称混淆
