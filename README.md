@@ -11,8 +11,8 @@
 #### 联系qq：712641411，微信：whc66888，飞机：@codeConfuse
 
 ## tg✈️混淆审核经验沟通交流群：[https://t.me/whcCodeConfuse](https://t.me/whcCodeConfuse)
-## 混淆沟通iOS审核交流群：490149447
-## 混淆沟通Android审核交流群：764148031
+## 混淆沟通审核交流群1（已满）：490149447
+## 混淆沟通审核交流群2：764148031
 ## 混淆沟通Uniapp审核交流群：764190282
 ## 关于审核被拒相关问题(4.3,2.3.1,other等)可以查看：[微信公众号提包大佬的文章分析](https://mp.weixin.qq.com/s/PM48yeZ_URRAGGZXcJAfqQ)
 
