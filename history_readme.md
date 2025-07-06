@@ -5,6 +5,13 @@
  -->
 # 代码混淆翻新-历史更新记录
 
+### v1.9.9.5.7.1
+    1.修复flutter factory函数插入垃圾代码错误的bug
+    2.修复lua代码混淆语法解析崩溃问题
+    3.修复flutter项目克隆pubspec.yaml引用资源文件路径错误的问题
+    4.修复flutter特殊情况插入默认import位置错误bug
+    5.其他问题修复
+
 ### v1.9.9.5.7.0
     1.修复flutter加密复杂字符串错误的bug
     2.过滤flutter case 后面的字符串加密
