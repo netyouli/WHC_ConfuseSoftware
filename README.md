@@ -4,7 +4,9 @@
  * @LastEditTime: 2023-05-15 00:17:59
  -->
 
-# iOS(OC/Swift),Unity(C#),Lua,Android(Java/Kotlin),Uniapp,React-Native,H5,Unity3D,Cocos2dx,Flutter代码混淆v1.9.9.5.7.5 更新时间：2025-08-17（最新版本安装包向作者获取）
+# iOS(OC/Swift),Unity(C#),Lua,Android(Java/Kotlin),Uniapp,React-Native,H5,Unity3D,Cocos2dx,Flutter代码混淆v1.9.9.5.7.6 更新时间：2025-09-08（最新版本安装包向作者获取）
+
+## 新增OC高级混淆模式，支持函数拆分成多个子函数，保持执行结果不变，支持代码格式化等其他高级混淆功能
 
 ## IPA上传文件助手v1.0.3（Mac、Windows）版本，[下载IPA上传助手Mac](https://raw.githubusercontent.com/netyouli/WHC_ConfuseSoftware/master/IPA上传助手-mac-1.0.3.app.7z)、[下载IPA上传助手Windows](https://raw.githubusercontent.com/netyouli/WHC_ConfuseSoftware/master/IPA上传助手-win-1.0.3.exe.7z),辅助解决电脑关联导致各种审核问题(other, 4.3, 2.3.1, 封号等)
 #### 长期出iOS/Google海外(个人，公司)开发者，签名服务，代办android软著
@@ -34,6 +36,7 @@
 
 功能介绍
 ==============
+-  ☑ 0-1.新增OC高级混淆模式，支持函数拆分成多个子函数，保持执行结果不变，支持代码格式化
 -  ☑ 0.新垃圾代码(OC,Swift,C#,Lua,Dart,C/C++,TS,JS,VUE,NVUE,JSX,TSX)升级支持生成海量(单文件上万行)模拟人工手写代码贯穿整个项目
 -  ☑ 1.支持iOS、Unity3d、Cocos2dx、Flutter、UniApp、Android、微信小程序 项目翻新混淆
 -  ☑ 2.支持项目文件夹名称自动翻新混淆
@@ -65,6 +68,9 @@
 -  ☑ 28.支持混淆宏定义名称(Objc, c/c++)
 -  ☑ 29.支持生成额外代码文件并自动调用（swift, oc, java）
 
+## OC函数拆分展示
+![image](https://github.com/netyouli/WHC_ConfuseSoftware/blob/master/ConfuseSoftware/split1.png)
+![image](https://github.com/netyouli/WHC_ConfuseSoftware/blob/master/ConfuseSoftware/split2.png)
 ## 软件界面展示
 ![image](https://github.com/netyouli/WHC_ConfuseSoftware/blob/master/ConfuseSoftware/ui.jpg)
 ## IPA上传文件助手Windows版本
