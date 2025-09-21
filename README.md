@@ -4,7 +4,7 @@
  * @LastEditTime: 2023-05-15 00:17:59
  -->
 
-# iOS(OC/Swift),Unity(C#),Lua,Android(Java/Kotlin),Uniapp,React-Native,H5,Unity3D,Cocos2dx,Flutter代码混淆v1.9.9.5.7.6 更新时间：2025-09-08（最新版本安装包向作者获取）
+# iOS(OC/Swift),Unity(C#),Lua,Android(Java/Kotlin),Uniapp,React-Native,H5,Unity3D,Cocos2dx,Flutter代码混淆v1.9.9.5.7.7 更新时间：2025-09-21（最新版本安装包向作者获取）
 
 ## 新增OC高级混淆模式，支持函数拆分成多个子函数，保持执行结果不变，支持代码格式化等其他高级混淆功能
 
