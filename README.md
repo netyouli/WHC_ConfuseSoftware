@@ -13,6 +13,7 @@
 #### 联系qq：712641411，微信：whc66888，飞机：@codeConfuse
 
 ## tg✈️混淆审核经验沟通交流群：[https://t.me/whcCodeConfuse](https://t.me/whcCodeConfuse)
+## tg✈️源头长期稳定靠谱高质量iOS&Google开发者账号群(iOS、Google开发者账号出售商行):[https://t.me/ios_google_develop_account](https://t.me/ios_google_develop_account)
 ## 混淆沟通审核交流群1（已满）：490149447
 ## 混淆沟通审核交流群2：764148031
 ## 混淆沟通Uniapp审核交流群：764190282
