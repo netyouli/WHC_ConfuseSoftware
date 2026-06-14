@@ -4,11 +4,11 @@
  * @LastEditTime: 2023-05-15 00:17:59
  -->
 
-# iOS(OC/Swift),Unity(C#),Lua,Android(Java/Kotlin),Uniapp,React-Native,H5,Unity3D,Cocos2dx,Flutter代码混淆v1.9.9.5.9.8 更新时间：2025-05-31（最新版本安装包向作者获取）
+# iOS(OC/Swift),Unity(C#),Lua,Android(Java/Kotlin),Uniapp,React-Native,H5,Unity3D,Cocos2dx,Flutter代码混淆v1.9.9.5.9.9 更新时间：2025-06-14（最新版本安装包向作者获取）
 
 ## 新增OC高级混淆模式，支持函数拆分成多个子函数，保持执行结果不变，支持代码格式化等其他高级混淆功能
 
-## IPA上传文件助手v1.0.3（Mac、Windows）版本，[下载IPA上传助手Mac](https://raw.githubusercontent.com/netyouli/WHC_ConfuseSoftware/master/IPA上传助手-mac-1.0.5.app.7z)、[下载IPA上传助手Windows](https://raw.githubusercontent.com/netyouli/WHC_ConfuseSoftware/master/IPA上传助手-win-1.0.5.exe.7z),辅助解决电脑关联导致各种审核问题(other, 4.3, 2.3.1, 封号等)
+## IPA上传文件助手v1.0.5（Mac、Windows）版本，[下载IPA上传助手Mac](https://raw.githubusercontent.com/netyouli/WHC_ConfuseSoftware/master/IPA上传助手-mac-1.0.5.app.7z)、[下载IPA上传助手Windows](https://raw.githubusercontent.com/netyouli/WHC_ConfuseSoftware/master/IPA上传助手-win-1.0.5.exe.7z),辅助解决电脑关联导致各种审核问题(other, 4.3, 2.3.1, 封号等)
 #### 长期出iOS/Google海外(个人，公司)开发者，签名服务，代办android软著
 #### 联系qq：712641411，微信：whc66888，飞机：@codeConfuse
 
